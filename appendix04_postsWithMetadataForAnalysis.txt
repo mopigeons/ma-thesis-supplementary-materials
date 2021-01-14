@@ -1,0 +1,3796 @@
+Run Description: allSelectedThreads_politics_2xc
+Number of Topics: 20
+Alpha: 5.0, Beta: 0.01, Num. Iter: 5000
+Log likelihood: -1017068.8647869187, Perplexity: 476.74456852395514
+Number of Tokens: 114315
+***** Topics *****
+
+
+  ** Topic 1 ** :
+
+Top Tokens:
+1: it’s	384.036
+2: don’t	278.036
+3: i’m	179.036
+4: that’s	161.036
+5: you’re	152.036
+6: didn’t	150.036
+7: people	133.036
+8: he’s	131.036
+9: doesn’t	119.036
+10: can’t	109.036
+11: isn’t	91.036
+12: she’s	86.036
+13: wouldn’t	64.036
+14: i’ve	58.036
+15: wasn’t	50.036
+16: there’s	49.036
+17: they’re	48.036
+18: aren’t	46.036
+19: i’d	40.036
+20: shouldn’t	32.036
+
+Top Posts:
+1: (0.753)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Stupidest statement I’ve ever heard. Gross exaggeration of maybe a few crazies.
+
+2: (0.709)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+It’s slut shaming someone... people do see each other’s yearbooks. Even if they don’t, it’s wrong.
+
+3: (0.687)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Just so you’re aware, she isn’t claiming she was raped
+
+4: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> I routinely change the channel if she’s on
+
+Cable news is a cancer. All of it. No matter who's on.
+
+5: (0.678)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Do you want some salt and vinegar for that chip on your shoulder?
+
+Nobody’s saying men don’t get sexually assaulted in this thread. That’s not what the conversation is about. 
+
+6: (0.678)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+That’s what they’re all saying here. If you say nothing you’re guilty because you won’t speak up.
+
+If you come off as “triggered” you’re guilty because well women. 
+
+7: (0.647)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+He said he didn’t listen to her testimony.
+
+I hope to hell she didn’t listen to his either.
+
+8: (0.641)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Is English not your first language? Well I’ve asked for evidence this whole time and you’ve produced nothing at all! Guess you’re the failure instead, sorry kiddo but if you can’t bring anything to the table you don’t get a say! Bye bye now.
+
+9: (0.638)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+That last paragraph grants you a backhand to the face. 
+
+10: (0.606)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because people suck and the truth doesn’t, and has never mattered in politics
+
+11: (0.604)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+You don’t know their stance on a multitude of issues that are public knowledge and therefore have no opinion about them but you’re fine with voting for them? Lol.
+
+12: (0.594)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+I mean I’ve seen tweets passed around by people claiming they went to college and high school with her claiming she was a slur. Which then brings up to these people just because you sleep around doesn’t mean you can’t get raped or assaulted. It’s like the word consent has a fluid meaning to these people.
+
+13: (0.572)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+*whispers* because they’re racists 
+
+14: (0.572)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Almost there. It’s “Sad!”, not “Sad.”
+
+15: (0.562)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Well first of all lol I’m not a fan of Hillary and even if what you say Is true, it doesn’t make what they’re doing with kavanaugh ok that’s called “whataboutism”. And I didn’t speak to his sexual assault as I don’t know all the facts. Which it seams you don’t either but you’re more than willing to come to an angry and irrational conclusion about it by immediately saying it’s a smear campaign. 
+
+16: (0.553)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+That wasn’t her statement, but another poster already quoted her statement exactly. 
+
+17: (0.553)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+We're starting a band called "The Butthole Method"
+
+18: (0.553)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+What’s to say she’s not mistaken about her attacker then using this logic?
+
+19: (0.553)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Life's a complicated thing, you never know what the future brings.
+
+20: (0.544)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Well bringing forth an allegation of assault - if it happened and if you’re accusing the right person - is admirable. I’ve been there and it’s damn hard.
+
+If you’re not being truthful or if you have the wrong person then there’s nothing admirable about it. 
+
+
+  ** Topic 2 ** :
+
+Top Tokens:
+1: years	315.036
+2: kavanaugh	274.036
+3: ford	228.036
+4: ago	184.036
+5: happened	177.036
+6: party	139.036
+7: remember	139.036
+8: therapist	85.036
+9: people	84.036
+10: time	83.036
+11: witnesses	79.036
+12: judge	77.036
+13: assaulted	76.036
+14: story	75.036
+15: raped	73.036
+16: year	73.036
+17: evidence	71.036
+18: details	69.036
+19: incident	62.036
+20: friend	62.036
+
+Top Posts:
+1: (0.94)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+> Mark Judge's ex gf says Mark Judge admitted to gang raping a drunk girl.
+
+ Not what she said.
+
+> Rasor says that Judge “told her ashamedly” about an incident in which he and other boys took turns having sex with a drunk woman, per the New Yorker. He seemed to think it was consensual, she added, and he didn’t name anyone else who had been involved. There is no indication that Kavanaugh was one of the boys, the New Yorker notes.
+
+Also. 
+
+> 
+In a statement, Judge’s attorney said that he “categorically denies” Rasor’s account.
+
+2: (0.931)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+From Julie Swetnick's statement:
+
+>In approximately 1982, I became the victim of one of these "gang" or "train" rapes where Mark Judge and Brett Kavanaugh were present. Shortly after the incident, I shared what had transpired with at least two other people. During the incident, I was incapacitated without my consent and unable to fight off the boys raping me. I believe I was drugged using Quaaludes or something similar placed in what I was drinking.
+
+So actually, yes, Brett did rape someone.
+
+3: (0.924)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+I'm borrowing this from another comment I read from https://www.reddit.com/user/ryeander
+
+
+*Do the facts make Brett Kavanaugh a likely assailant of Dr. Ford around 36 years ago?*
+
+Dr. Ford does not recall the year, the month or day the alleged incident took place.
+
+She does not recall whose house or street that the assault took place
+
+She does not recall how she got there, or how she got home
+
+She does recall having just one beer at the party
+
+She recalls four other people at the party: Kavanaugh, Mark Judge, Patrick PJ Smith, Leland Keyser (whom she claims is her lifelong friend). Kavanaugh/Smith/Judge/Keyser have all issued statements *under penalty of perjury*, that they do not recall attending any such party, or any assault taking place.
+
+Dr. Ford stated that she revealed details of her assault to her therapist in May 2012. The therapist’s notes told her there were “four boys” in the bedroom, not two as she has stated. The notes do not name Kavanaugh. The notes also indicate Ford said she was in her late teens when she was assaulted. But Ford now says she may have been only 15.
+
+Neither Dr. Ford’s parents nor her two siblings have come out to voice support for Ford, and they did not sign any family letter of support vouching for her credibility.
+
+Her husband’s family members did come out with a signed letter of support.
+
+A polygraph was performed. The examination was administered by former FBI agent Jeremiah Hanafin in a Hilton hotel in Maryland. It appears that Hanafin worked off a handwritten statement that Ford signed. That statement refers to “4 boys and a couple of girls” at the party. That is different from her account to the Committee that the party consisted of “me and 4 others.” The only two “relevant” questions asked by Hanafin “Is any part of your statement false?” and “Did you make up any part of your statement?” *He did not ask specific questions on whether she was assaulted by Kavanaugh.*
+
+4: (0.881)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Kavanaugh’s own calendar backs up her story more than his.  July 1st, 1982.  Timmy’s house.  Small gathering for ‘skis’ with the people Ford said was at the small gathering where the drunken assault happened.  
+
+5: (0.878)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+From Julie Swetnick's statement: 
+
+In approximately 1982, I became the victim of one of these "gang" or "train" rapes where Mark Judge and Brett Kavanaugh were present. Shortly after the incident, I shared what had transpired with at least two other people. During the incident, I was incapacitated without my consent and unable to fight off the boys raping me. I believe I was drugged using Quaaludes or something similar placed in what I was drinking.
+
+So actually, not just Julie Swetnick, but possible multiple people.
+
+6: (0.868)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Actually Keyser said she didn't remember the party specifically, but she believes Ford on the events in question. Which isn't unsurprising, I'm sure the event was not particularly different than any of a number of high school parties if you weren't being assaulted.
+
+7: (0.847)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Burden of proof falls on the accuser. Especially for serious allegations, such as sexual assault. We should trust claims in order to verify the accusations, rather than discard them from the start, but we should NOT assume guilt first before innocence is proven. 
+
+I ask that you put yourself in the shoes of the accused. How would you react if someone claimed you did a heinous crime, with only the following facts?
+
+****Do the facts make Brett Kavanaugh a likely assailant of Dr. Ford around 36 years ago?****
+
+
+* Dr. Ford does not recall the year, the month or day the alleged incident took place. 
+
+* She does not recall whose house or street that the assault took place 
+
+* She does not recall how she got there, or how she got home
+
+* She does recall having just one beer at the party
+
+* She recalls four other people at the party: Kavanaugh, Mark Judge, Patrick PJ Smith, Leland Keyser (whom she claims is her lifelong friend). Kavanaugh/Smith/Judge/Keyser have all issued statements ****under penalty of perjury****, that they do not recall attending any such party, or any assault taking place.
+
+* Dr. Ford stated that she revealed details of her assault to her therapist in May 2012. The therapist’s notes told her there were “four boys” in the bedroom, not two as she has stated. The notes do not name Kavanaugh. The notes also indicate Ford said she was in her late teens when she was assaulted. But Ford now says she may have been only 15. 
+
+
+
+* Neither Dr. Ford’s parents nor her two siblings have come out to voice support for Ford, and they did not sign any family letter of support vouching for her credibility.
+
+* Her husband’s family members did come out with a signed letter of support.
+
+
+
+* A polygraph was performed. The examination was administered by former FBI agent Jeremiah Hanafin in a Hilton hotel in Maryland.  It appears that Hanafin worked off a handwritten statement that Ford signed.  That statement refers to “4 boys and a couple of girls” at the party.  That is different from her account to the Committee that the party consisted of “me and 4 others.” The only two “relevant” questions asked by Hanafin “Is any part of your statement false?” and “Did you make up any part of your statement?” ****He did not ask specific questions on whether she was assaulted by Kavanaugh.****
+
+8: (0.843)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+I don't agree.  You're only lying if you *know* what you are saying is false.
+
+&#x200B;
+
+Ford has a "recovered" memory.  There have been many cases of recovered memories not being accurate.  There are also many cases of regular memories being false years later.
+
+&#x200B;
+
+Ford could be truthfully telling what she remembers, yet what she remembers is not what happened.
+
+&#x200B;
+
+In that case, neither would be lying.
+
+9: (0.838)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Brett Kavanaugh Fun Fact: Sources close to the Kavanaugh family have released a statement discussing how Brett would always flip rolls of toilet paper so that the TP would be pulled under and not over the roll
+
+10: (0.811)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+How about facts.
+
+1. Back when the alleged ASSAULT occurred, it was one year.
+
+2. She wasn't raped. She wasn't even allegedly raped. She never even stated she was raped. She was allegedly groped which is at best being molested. Which is assault. 
+
+11: (0.799)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Those therapist notes have been proven inaccurate. There are more than a few holes in the polygraph as evidence claim. As far as she told many people about this incident, if I recall only her husband has stated that she named Kavanaugh prior to her letter to the senator.
+
+12: (0.799)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+>the only thing i was implying is that dr ford had told people many years ago that this happened, that it was brett kavanaugh.
+
+Who did she tell it was specifically Brett Kavanaugh. She didn't even tell her therapist that. 
+
+13: (0.756)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+What about Ford lying about being afraid of flying? (Yet she flew several times in the last year) ?...
+
+14: (0.756)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+The details were different when she talked with her therapist, and she never mentioned Kavanaugh's name according to the therapists notes.
+
+15: (0.756)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+They have actually already talked to everyone she claims was at the party, and all of them denied being at such a party, even her female friend. 
+
+16: (0.756)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+No she was not raped and she never said she was raped.  She said she escaped being raped.  That doesn't mean she was not sexually assaulted.  She was and luckily got away. 
+
+17: (0.741)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+The fact that her therapist confirmed she talked about it years ago, that her husband confirmed she’d told him about it years ago, and that she passed a polygraph (the least strong of the three given polygraph exams being not that reliable).
+
+18: (0.735)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Damn so all this and you don't think Kavanaugh and his friends ran a train on girls? And Ford is just lying and wasn't sexually assaulted? 
+
+19: (0.731)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Interviewer: “Please tell me your story Mrs. Ford. “
+
+Ford: “Kavanaugh, did it, he sexually assaulted me in high school.”
+
+Interviewer: “Did you just tell me that Mr. Kavanaugh sexually assaulted you in high school. “
+
+Ford: “Yes”
+
+Interviewer: looks at results “she’s telling the truth.” 
+
+
+
+20: (0.727)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+It sounds like she talked to a therapist who helped her "recover a memory"
+
+
+  ** Topic 3 ** :
+
+Top Tokens:
+1: word	12.036
+2: ideas	10.036
+3: medical	10.036
+4: found	10.036
+5: amount	9.036
+6: mental	9.036
+7: hysteria	9.036
+8: lazy	9.036
+9: general	8.036
+10: ban	8.036
+11: including	7.036
+12: cite	7.036
+13: intellectually	7.036
+14: comment	7.036
+15: open	7.036
+16: speech	7.036
+17: free	7.036
+18: subreddit	6.036
+19: uterus	6.036
+20: troll	6.036
+
+Top Posts:
+1: (0.942)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+
+As a reminder, this subreddit [is for civil discussion.](/r/politics/wiki/index#wiki_be_civil)
+
+In general, be courteous to others. Attack ideas, not users. Personal insults, shill or troll accusations, hate speech, **any** advocating or wishing death/physical harm, and other rule violations can result in a permanent ban. 
+
+If you see comments in violation of our rules, please report them.
+
+***
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/politics) if you have any questions or concerns.*
+
+2: (0.927)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Hi `Nazisarebadpeople`. Thank you for participating in /r/Politics. However, [your comment](https://www.reddit.com/r/politics/comments/9k5arb/-/e6wqa7p/) has been removed for the following reason(s):
+
+* Your comment does not meet our [comment civility rules](https://www.reddit.com/r/politics/wiki/index#wiki_be_civil).  Please be civil. 
+
+
+
+
+
+
+
+If you have any questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this comment by /u/Nazisarebadpeople&message=I have a question regarding the removal of this [comment.](https://www.reddit.com/r/politics/comments/9k5arb/-/e6wqa7p/?context=10000\))
+
+3: (0.924)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Hi `DjKay_Slay`. Thank you for participating in /r/Politics. However, [your comment](https://www.reddit.com/r/politics/comments/9k5arb/-/e6ww1hp/) has been removed for the following reason(s):
+
+* Your comment does not meet our [comment civility rules](https://www.reddit.com/r/politics/wiki/index#wiki_be_civil).  Please be civil. This is a warning.
+
+
+
+
+
+
+
+If you have any questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this comment by /u/DjKay_Slay&message=I have a question regarding the removal of this [comment.](https://www.reddit.com/r/politics/comments/9k5arb/-/e6ww1hp/?context=10000\))
+
+4: (0.919)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+
+As a reminder, this subreddit [is for civil discussion.](/r/politics/wiki/index#wiki_be_civil)
+
+In general, be courteous to others. Attack ideas, not users. Personal insults, shill or troll accusations, hate speech, **any** advocating or wishing death/physical harm, and other rule violations can result in a permanent ban. 
+
+If you see comments in violation of our rules, please report them.
+
+***
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/politics) if you have any questions or concerns.*
+
+5: (0.714)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I don’t think shes an expert, either. Her [‘about me’ webpage](https://bombardsbodylanguage.com/about/) was about her intentions but not her qualifications with an emoji. Wouldn’t a professional have her own educational medical channel with all her videos available with a biography. She does make a note that the comments are her opinion but not professional opinion. I still don’t think she’s a certified behaviorist. Her syntax is very informal so It really just seems like a hobby. And you have to pay to see some of her videos. I believe she’s would be violating her ethics if she were a behavioral analyst. 
+
+https://www.bacb.com/wp-content/uploads/170706r_compliance_code_english.pdf
+
+Edit: a few words and a link to the certified behavioral analyst that was mentioned in a parent comment. 
+
+https://bouve.northeastern.edu/directory/laura-dudley/#_ga=2.16510582.1385319446.1538330345-268222100.1538330345
+
+Link to article:
+
+https://news.northeastern.edu/2018/09/27/a-body-language-expert-breaks-down-kavanaughs-supreme-court-confirmation-hearing/
+
+6: (0.705)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Here is what I found by searching for 5 minutes.  Google is a great thing.
+
+https://www.youtube.com/watch?v=9hsPpgxm3U4
+
+https://slate.com/news-and-politics/2018/09/brett-kavanaugh-lies-senate-testimony-supreme-court.html
+
+https://www.motherjones.com/politics/2018/09/five-times-brett-kavanaugh-appears-to-have-lied-to-congress-while-under-oath/
+
+https://www.washingtonpost.com/politics/2018/09/17/did-brett-kavanaugh-give-false-testimony-under-oath/?utm_term=.5ffa77c14ea9
+
+http://www.chicagotribune.com/news/opinion/zorn/ct-perspec-zorn-kavanaugh-ford-renate-crying-20180930-story.html
+
+https://www.theatlantic.com/politics/archive/2018/07/how-kavanaughs-last-confirmation-hearing-could-haunt-him/565304/
+
+https://www.wsj.com/livecoverage/kavanaugh/card/1538060501
+
+7: (0.688)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+He may sound like a raving lunatic, but a study found that a statistically insignificant (meaning within the study's margin of error, but barely) amount of liberals were found to have slightly higher iqs than the average. Topped with another study I read from years back that said that people with high iqs tend to have more mental illness than the average.
+
+8: (0.635)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Petition to ban sites that use those URL traps like huff post.
+
+9: (0.621)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Depending on how lucky the woman was in her birth date, over the past 150-200 years the treatment for hysteria was indeed to have a medical doctor masturbate the lady to an orgasm, or just do a cliterodectomy and labiaectomy, or insert an ice pick through her eye socket, ~~tap that frontal lobe gently~~ whack that frontal lobe vigorously a couple of times, and the lady would be right as rain.
+
+10: (0.62)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> my
+
+You mean our Communist meme subreddit.
+
+11: (0.612)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Ya they do it on video games and YouTube videos, doesn't have to be edgy to get taken over. Minecraft, Fortnite, Roblox. Insidious. 
+
+12: (0.606)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Liberals tend to be atheistic, they tend to be more open to changing their worldview, they (sometimes) exhibit signs of mental illness. They also tend to have a higher iq than your average Republican, but it was within the study's margin of error barely. People who have a higher iq are significantly more likely to exhibit signs of mental illness than your average (in terms of iq) person. Take Einstein for example he displayed symptoms of being manic depressive. I happen to be a high functioning autistic with a savant ability in memory (I can almost instantly recall anything I've read). I happen to be left leaning because I believe we should all work together toward making the most amount of people happy that we can.
+
+13: (0.604)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Fun fact: the word "hysteria", meaning an uncontrollable surge of emotion, comes from the Greek word for Uterus. (which is also why a hysterectomy is called that) The use of the word for uterus is a strong indicator that the idea of uncontrolled emotion is found only, or primarily, in women. The term was used historically to refer to excess emotion in women.
+
+&#x200B;
+
+From Wikipedia:
+
+While the word "hysteria" originates from the Greek word for [uterus](https://en.wikipedia.org/wiki/Uterus), *hystera* (ὑστέρα), the word itself is not an ancient one, and the term "hysterical suffocation" – meaning a feeling of heat and inability to breathe – was instead used in ancient Greek medicine. This suggests an entirely physical cause for the symptoms but, by linking them to the uterus, suggests that the disorder can only be found in women.[\[1\]](https://en.wikipedia.org/wiki/Hysteria#cite_note-gilman1993-1) Historically, hysteria was thought to manifest itself in women with a variety of symptoms, including: [anxiety](https://en.wikipedia.org/wiki/Anxiety), shortness of breath, [fainting](https://en.wikipedia.org/wiki/Fainting), [insomnia](https://en.wikipedia.org/wiki/Insomnia), [irritability](https://en.wikipedia.org/wiki/Irritability), nervousness, as well as sexually forward behaviour.[\[2\]](https://en.wikipedia.org/wiki/Hysteria#cite_note-maines-2)
+
+&#x200B;
+
+[https://en.wikipedia.org/wiki/Hysteria](https://en.wikipedia.org/wiki/Hysteria)
+
+14: (0.595)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+When I read this, my eyes misfired and saw "A high boner" at the end.
+
+And you know what? I nodded in sage agreement. It is indeed a high boner.
+
+15: (0.573)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+lol. Is this the same Pelosi who stammers at the microphone , loses her train of thought, and generally looks like a person who is in the advanced stages of alzheime's disease?
+
+You Dems must be so proud.
+
+16: (0.566)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I agree.
+
+Off on a tangent but [Family of Secrets](https://www.amazon.com/Family-Secrets-Americas-Invisible-Government/dp/1608190064/ref=sr_1_1?ie=UTF8&qid=1538203363&sr=8-1&keywords=family+of+secrets&dpID=51ikVdvuNkL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) about the Bush family is an interesting read.
+
+17: (0.563)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Nice job holding the gate for that gulag open, I'll be sure to compliment my local politburo representative.
+
+18: (0.554)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+He obviously has a thing for conservative blonde females.
+
+He's buds with Ann Coulter and Terri what's-her-face, the millenial right wing blonde.
+
+19: (0.551)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Does your own rhetoric taste delicious?
+
+20: (0.547)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+I wouldn't mind some pontification here.  I'm not up to speed on this story...
+
+But take Kevin Spacey for example;  Does anything he did retroactively make him a bad actor? (only using Kevin Spacey as example 'cuz that's a story I know about)
+
+
+  ** Topic 4 ** :
+
+Top Tokens:
+1: court	545.036
+2: supreme	380.036
+3: kavanaugh	172.036
+4: judge	159.036
+5: job	99.036
+6: justice	92.036
+7: highest	89.036
+8: scotus	68.036
+9: lifetime	64.036
+10: appointment	63.036
+11: people	63.036
+12: country	62.036
+13: nominee	58.036
+14: nomination	58.036
+15: partisan	52.036
+16: allegations	52.036
+17: position	51.036
+18: president	51.036
+19: life	49.036
+20: nominated	46.036
+
+Top Posts:
+1: (0.977)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+If you are pro-choice, now is the time to reach out to your Senators.  In my opinion, your best options is [5 Calls](https://5calls.org/) (site takes a minute to load).  They give you the relevant numbers based on your location and a script to use.  You can adjust the script for yourself to make it more natural, but at least your have a guideline.  The site takes a minute to load, so don't navigate away right away if it doesn't seem to be working.  Calls during east coast business hours generally lead to a conversation with a staff assistant, calls outside of east coast business hours usually lead to voicemail.
+
+Right now, there are multiple scripts for Kavanaugh:  [DEMAND JUDICIARY COMMITTEE THOROUGHLY REVIEW ALL KAVANAUGH DOCUMENTS](https://5calls.org/issue/judiciary-committee-review-kavanaugh-documents) /// [BLOCK BRETT KAVANAUGH TO PROTECT VOTING RIGHTS](https://5calls.org/issue/brett-kavanaugh-voting-rights) /// [OPPOSE SUPREME COURT NOMINEE BRETT KAVANAUGH FOR HIS HOSTILITY TO REPRODUCTIVE RIGHTS](https://5calls.org/issue/oppose-kavanaugh-reproductive-rights) /// [PROTECT THE SPECIAL COUNSEL: VOTE NO ON KAVANAUGH](https://5calls.org/issue/special-counsel-brett-kavanaugh) (links take a minute to load).  You can cut and paste the scripts into word to make your own script.  
+
+If you can't handle the phone, text RESIST to 50409 and Resistbot will help you send a fax.  Apparently they're also hand delivering letters on the Hill right now.
+
+2: (0.957)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Now is the time to reach out to your Senators.  In my opinion, your best options is [5 Calls](https://5calls.org/) (site takes a minute to load).  They give you the relevant numbers based on your location and a script to use.  You can adjust the script for yourself to make it more natural, but at least your have a guideline.  The site takes a minute to load, so don't navigate away right away if it doesn't seem to be working.  Calls during east coast business hours generally lead to a conversation with a staff assistant, calls outside of east coast business hours usually lead to voicemail.
+
+Right now, there are multiple scripts for Kavanaugh:  [DEMAND JUDICIARY COMMITTEE THOROUGHLY REVIEW ALL KAVANAUGH DOCUMENTS](https://5calls.org/issue/judiciary-committee-review-kavanaugh-documents) /// [BLOCK BRETT KAVANAUGH TO PROTECT VOTING RIGHTS](https://5calls.org/issue/brett-kavanaugh-voting-rights) /// [OPPOSE SUPREME COURT NOMINEE BRETT KAVANAUGH FOR HIS HOSTILITY TO REPRODUCTIVE RIGHTS](https://5calls.org/issue/oppose-kavanaugh-reproductive-rights) /// [PROTECT THE SPECIAL COUNSEL: VOTE NO ON KAVANAUGH](https://5calls.org/issue/special-counsel-brett-kavanaugh) (links take a minute to load).  You can cut and paste the scripts into word to make your own script.  
+
+If you can't handle the phone, text RESIST to 50409 and Resistbot will help you send a fax.  Apparently they're also hand delivering letters on the Hill right now.
+
+3: (0.795)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+His potential employer hasn't accused him of anything. His potential employer is the President of the United States who has been actively promoting his confirmation.
+
+Ten days for a nomination hearing is nothing. One nominee had to endure two years of debate.
+
+This guy is going to be employed for life.  It's worth finding out how he behaves, drunk or sober.
+
+*According to federal statute, the Court normally consists of the Chief Justice of the United States and eight associate justices who are nominated by the President and confirmed by the Senate. Once appointed, justices have lifetime tenure unless they resign, retire, or are removed from office.*
+
+
+
+
+
+
+4: (0.791)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+>It's not a trial. but if you were interviewing for, say, your chief accountant for the firm - and one candidate has unsubstantiated mutterings of financial misbehaviour following him around, and the others are squeaky clean - why would you pick the one who is short of perfect?
+
+Because the one with unsubstantiated mutterings is your preferred candidate.
+
+If the financial misconduct was true, there would be evidence of it.
+
+5: (0.784)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I think you undersold it by saying “interview for the highest court”
+
+It’s one of 9 lifetime appointments that can check both Congress and the POTUS. “Interview for one of the most powerful jobs in the world” would be more appropriate.
+
+6: (0.737)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Are you a sitting judge on the supreme court? Do you ever expect to be? Would you consider your life ruined? I'm not seated on the supreme court, and I certainly don't expect to be, and I think my life is pretty great. 
+
+7: (0.724)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+How is that relevant? Are you saying there is a Chinese plot to keep this guy off the Supreme court?
+
+8: (0.723)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+It's over a SC seat though. This is about whether he gets to be one on nine people deciding law for all of us or if he's merely going to be a federal judge. Denying him a seat is no more an injustice than denying anyone else a seat. There's no standard of evidence needed to not seat him, a senator could vote against him because they didn't like his tie. We don't need to prove he did it, we don't even need to show it's likely it happened. The Supreme Court should be above suspicion.
+
+9: (0.711)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Yeah I mean compared to when things were normal this nominee would have never been confirmed. SCOTUS judges should be squeaky clean and even without this allegation his past history as a judge is too cloudy to push him through. 
+
+10: (0.709)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+He is not.  He’s the nominee to be the deciding vote of the Supreme Court.  He should be held to the highest standard.
+
+11: (0.688)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+And those people should not sit on the highest court of the country.
+
+12: (0.688)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Not fit for the job, you say? Give him the highest seat available! 
+
+13: (0.676)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+You don't think we need to find out everything relevant to a nominee's character & integrity for a *lifetime* appointment? What is a week or two compared to having someone potentially unfit sit on the court for 40 more years?
+
+14: (0.671)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+There is significant corroborating evidence, and Kavanaugh has not been charged with a crime.  No one's trying to prosecute him.  No one's even trying to take away his lifetime appointment to the federal bench (yet, but I hope they will).  
+
+Most troublingly, and why he must withdraw or be withdrawn, is that this will not end.  if he is placed on the supreme court, the investigation will continue by those that want to know more.  More evidence will be discovered.  More accusations will likely come forth.  It will grow.  And then we will probably end up with the second impeachment of a supreme court justice in the history of this nation, and regardless of the outcome it will be a great stain from which we may not ever properly recover.  
+
+15: (0.668)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Have you called your Senators and told them how you feel?  It is incredibly important that people reach out directly to their Senatiors right now.  Posting on Reddit or tweeting about the situation means nothing without direct, polite contact with your Senators.  They're the people who make the decisions.
+
+If you are a US voter concerned about Kavanaugh- **call your Senators.**  It doesn't matter who your Senators are, they all should hear from constituents right now.  And having to talk to real live people makes an impact on the people working in the office.
+
+I like 5 Calls.  They give you a script and all the phone numbers you need.  You can copy and paste the script into word and make adjustments so it sounds more like you or improve your way through it.  [5 Calls: DEMAND FBI INVESTIGATES KAVANAUGH SEXUAL ASSAULT ALLEGATIONS](https://5calls.org/issue/delay-kavanaugh-vote-fbi-investigation)  //  [5 Calls: BLOCK BRETT KAVANAUGH FROM SUPREME COURT TO PROTECT PEOPLE OF COLOR](https://5calls.org/issue/kavanaugh-discrimination-communities-of-color) // [5 Calls: BLOCK BRETT KAVANAUGH TO PROTECT VOTING RIGHTS](https://5calls.org/issue/brett-kavanaugh-voting-rights)  //  [5 Calls: PROTECT THE SPECIAL COUNSEL: VOTE NO ON KAVANAUGH](https://5calls.org/issue/special-counsel-brett-kavanaugh)  //  [5 Calls: OPPOSE SUPREME COURT NOMINEE BRETT KAVANAUGH FOR HIS HOSTILITY TO REPRODUCTIVE RIGHTS](https://5calls.org/issue/oppose-kavanaugh-reproductive-rights).  (Links take a minute to load)
+
+If you really, truly can't handle the phone- Text RESIST to 50409 and use Resistbot to send a text based message.
+
+
+
+16: (0.66)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Or more logically it’s a damn job interview and ANY candidate who IS a sitting judge should a. Refrain from open partisanship since it’s a scotus seat and b. Withdraw when they carry this much baggage (especially since proof of perjury by Kavanaugh has been shown (senate testimony now contradicted by his emails)) 
+
+
+
+17: (0.66)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+A) It hasn't derailed anything yet, he's still widely expected to be confirmed to the Supreme Court. Democratic Senators and others are now calling for Republicans (who control the process) to delay his nomination so that they can question Brett Kavanaugh about this.
+
+B) Supreme Court justices are quite possibly the most powerful people in the country behind the President. As a result, people nominated to those positions receive *incredibly* more scrutiny than an average judicial position.
+
+C) When a woman publicly accuses someone who currently nominated for a lifetime position as a judge of having tried to rape her, *even if it was a long time ago,* that's something that a lot of people think should be investigated and considered *before confirming that person to a lifetime tenure as a judge.* And especially because once that person is on the bench, they can only be removed by a 2/3 vote of the Senate following a messy and long impeachment trial, as opposed to the majority vote required to put them on the bench in the first place.
+
+18: (0.658)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+The Supreme Court in the US is very powerful, and justices are appointed for life. You want to make good and damned sure that anyone appointed to the court is of good character and free from the sort of secrets that might be used to sway their judgement down the road
+
+19: (0.648)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Yes, bringing his past misconduct up now is absolutely logical since it's relevant to his appointment. 
+
+20: (0.648)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+He's also said on the record that he is an upholder of judicial precedent, so wouldn't overturn roe v wade.
+
+
+
+  ** Topic 5 ** :
+
+Top Tokens:
+1: shit	198.036
+2: fucking	173.036
+3: people	163.036
+4: fuck	128.036
+5: yeah	118.036
+6: time	99.036
+7: post	90.036
+8: trump	87.036
+9: thing	78.036
+10: bullshit	78.036
+11: stupid	76.036
+12: makes	71.036
+13: back	68.036
+14: pretty	65.036
+15: lol	63.036
+16: point	61.036
+17: liar	60.036
+18: read	59.036
+19: good	59.036
+20: talking	58.036
+
+Top Posts:
+1: (0.859)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+"Where is his GoFundMe?"
+
+ On the Go Fund Me web site?
+
+You did start one for him, didn't you? 
+
+Anyone can start one, if you think he needs one, and he hasn't got one, why haven't you done anything about it? 
+
+As for twonks threatening people, that is never acceptable, but I'm pretty sure security comes with his job. 
+
+2: (0.838)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+This fear of flying rebuttal may be the dumbest shit I've seen yet. Thousands of people have a fear of flying and do it all the time. Is that really all it took to convince you?
+
+3: (0.804)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+America is NOT turning into the middle east. Jesus christ, get a grip on reality. 
+
+Edit: I think it's nice to edit posts for clarification but people who post insane shit then delete it because they're going to reddit karma hell (and seriously who cares about that even?) Are so annoying. You might post crazy shit but atleast have some conviction. That I can respect. 
+
+4: (0.794)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Lol. At the time of watching, my co-workers and I kinda felt bad for him assuming that his dad (and some of his friends) had died.
+
+But nope.
+
+He’s just an asshole. 
+
+5: (0.792)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Add me to the list, because that women is a liar. I used to call her a doctor, but now I shall call her liar!
+
+6: (0.78)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+You're the definition of that kind of guy who says misogynistic shit because they had crazy women in their lives. Your comment made me laugh out loud.
+
+7: (0.77)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Or should we have been called a typical "/r/politics subscriber" to the rest of the world outside of /r/politics 
+
+8: (0.764)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+You must live in the magic land of Throw the Bum out and put my Bum in. Is it nice there, I hear they have good coffee? 
+
+9: (0.764)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+God that sub is terrible. It should be a haven of funny dark humor but instead it’s just a bunch of edgy 14 year olds. 
+
+10: (0.759)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+It probably was. Any sort of fringe, or I guess dark humor as you put it, type sub, has been getting taken over by some weird far-right type shit. I like to laugh at weird shit from time to time but I ain't into all the hate. So I just block subs I used to like looking at. Oh well.
+
+11: (0.748)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I came into that sub a year ago thinking it was a sub for dark humor. But nope. Just a bunch of edgy alt right kids jerking eachother off. The same thing happened with r/cringeanarchy too. I thought it was a cringe sub without stupid mod rules... But nope. Just an alt right circlejerk haven. It was definitely a cringe sub alright.
+
+12: (0.743)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+America.... do the world a favor and pull your fucking shit together. 
+
+13: (0.743)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+What's the point of people even using hashtags on reddit? Makes no sense.
+
+14: (0.734)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+It's just common sense that it would happen. Did Republicans expect to fuck with Democrats and they wouldn't fuck back?  I thought you deplorables loved seeing someone fight back. I guess only if it's an orange dipshit.
+
+15: (0.73)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Did you start a Go Fund Me for him? 
+
+You did start one for him, didn't you?
+
+Anyone can start one, if you think he needs one, and he hasn't got one, why haven't you done anything about it?
+
+As for twonks threatening people, that is never acceptable, but I'm pretty sure security comes with his job.
+
+16: (0.723)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+He also let him get away with a lot of bullshit and praised him for coming on. Never called him out on the fact he's a Nazi piece of shit.
+
+17: (0.723)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Dehumanizing people is a stupid thing to do. She's a person, and to me that makes the terrible things she does worse.
+
+18: (0.723)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+“Didn’t always..” is the main point here. Eventually everything turns into an echo chamber full of hate for everything. 
+
+19: (0.711)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Probably many upvotes from people reading the clickbait title and just clicking upvote in passing, without reading the racist, sexist post
+
+20: (0.711)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+The whole time she was smiling and happy. Who smiles and is happy about being raped? We would expect her to be hysterical? Who wouldn't be hysterical about being rapped it's terrible thing. 
+
+
+  ** Topic 6 ** :
+
+Top Tokens:
+1: sexual	288.036
+2: assault	214.036
+3: victim	104.036
+4: victims	88.036
+5: rape	82.036
+6: women	73.036
+7: woman	45.036
+8: abuse	44.036
+9: forward	42.036
+10: movement	35.036
+11: accused	35.036
+12: boys	32.036
+13: cases	30.036
+14: attack	28.036
+15: metoo	27.036
+16: behavior	27.036
+17: world	26.036
+18: men	25.036
+19: sex	24.036
+20: people	22.036
+
+Top Posts:
+1: (0.808)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+If Kelly Ann said women are responsinble for their own conduct and what happens to them then, then by her own words she's not a victim because she is responsinble for her alleged assault on her. 
+
+2: (0.795)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+In Maryland, persons aged between 14 and 16 may consent to sex as long as the other partner is not more than 4 years older, so it's not anything like statutory if they did have any kind of sex. Meanwhile "legal adulthood" has an actual age definition - it's 18 everywhere except for Alabama or Nebraska, where it's 19.
+
+3: (0.786)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Their age does not excuse the behavior. 
+
+Being hormonal does not excuse the behavior. 
+
+Being an "awkward teenager" does not excuse the behavior. 
+
+High School aged boys are not idiots and should know that holding people down and covering their mouths in an attempt to have sex with someone is wrong on all levels. It's rape, or in this case attempted rape. You can "explore you sexuality" with consent, and this encounter was clearly not consensual. 
+
+4: (0.743)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+So like, wtf? How can any woman be OK with that? If all boys act that way in HS you should be screaming to separate boys from girls and regulate their behavior. You should be working to protect your daughters and fellow women.
+
+But they know that not every boy acts that way. It’s a shitty boys who don’t need to fear repercussions or consequences.saying “what boy hasn’t done that in high school” is just a way for them to excuse the men and boys they want to protect while abandoning the people they have no use for.
+
+5: (0.723)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+This is how my mom thinks. Just because she grew up in a world of rampant sexual assault and harassment that the women "complaining" about it today ought to simply "toughen up." It's sad that the world broke her (and many, many other women).
+
+6: (0.708)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Yeah like all those men accusing priests of molesting them as alter boys
+
+fuck those opportunistic jerks, trying to besmirch all those holy unrepentant child diddlers
+
+You simply don't believe her because she's a woman
+
+7: (0.702)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+wow. kellyanne conway was just on cnn a few minutes ago and said women like dr ford are responsible for their own conduct and what happens to them - !! - then went on to admit she's been the victim of sexual abuse too (while conveniently omitting what *she* did in her particular case, and whether *she* reported the incident to the appropriate authorities, as she continues to criticize dr ford for not doing).
+
+more victim-shaming from a republican woman who claims to be a victim herself.
+
+8: (0.674)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Priests and their adult alter boys coming out 30 years later..  you side with the Priests then I take it?
+
+just when its female victims, I'm sure...
+
+9: (0.648)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Maybe, just maybe, we can get men to stop defending sexual fucking predators as just boys being boys... who knows, it seems like a lofty goal.
+
+10: (0.617)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Maybe, just maybe, we can stop the culture which implies that only men commit sexual assaults... who knows, seems like a lofty goal. 
+
+11: (0.605)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Kavanaugh lied under oath, that alone should disqualify him. He's also shown he doesn't have the temperament to be on the bench with his emotional outbursts. 
+
+That won't stop the right from tripping over themselves to defend Bret because when it comes down to it the truth is the right loves rape and pedophilia and have a history of defending those acts and endorsing the attackers while attacking the victims. Never let  a Republican date your daughter , they're raised to believe it's normal to beat and rape women and to molest children, they label it as boys will be boys and they even use the bible to justify it. 
+
+12: (0.587)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+"Grab them by the pussy."   They elected a man that said that on tape.   At the very least they're fine with people in positions of power having a casual attitude towards sexual assault.
+
+13: (0.581)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+> used the metoo movement politically
+
+The metoo movement was political the day it became a hashtag.
+
+14: (0.581)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+He was accused of rape by Juanita Broderick and accused of sexual harassment by other women. 
+
+15: (0.579)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+His was a textbook presentation of [DARVO](https://www.tandfonline.com/doi/full/10.1080/10926771.2017.1320777) (Deny, Attack, and Reverse Victim and Offender)
+
+>Perpetrators of interpersonal violence thrive when victims are silenced. Most perpetrators never face legal repercussions for their abusive actions and many victims stay silent about their traumatic experience for extended periods of time or choose never to disclose for multiple reasons, including fear of retaliation and not being believed. Despite the plethora of research on reasons for victim non-disclosure or delayed disclosure, there has been very little focus on how perpetrators may actively discourage their victims from disclosing. Perpetrator demands for silence may in fact negatively affect victims’ willingness to disclose interpersonal abuse. Freyd proposed that perpetrators employ a particular three-part strategy in order to silence victims and escape culpability: deny or minimize the abuse, attack the victim’s credibility, and assume a victimized role (i.e., “play the victim”). The elements of this strategy are captured by the acronym DARVO: Deny, Attack, Reverse Victim and Offender. Freyd conceptually linked these particular responses and suggested that this set of perpetrator reactions to being confronted or held responsible for harmful behavior would produce confusion and non-disclosure on the part of the victim.
+
+(seriously, read the [full text free!] study linked. It's illuminating. Especially if you're someone who can't understand why people don't report this stuff)
+
+16: (0.57)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+>In what world does multiple victims coming forward 
+
+&#x200B;
+
+In a world where multiple democratic party connected women are lying....
+
+&#x200B;
+
+\> and corroboration from past associates/friends constitutes as baseless accusations?
+
+&#x200B;
+
+Well, except NONE of them actually have that.
+
+&#x200B;
+
+In other words, reality.
+
+17: (0.569)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Maybe he shouldn't have raped somebody, then he could keep his daughter better sheltered from the world he's creating for her. 
+
+Both my son's understand that unwanted touching is bad and consent is key and they're young in grade school. It's not a hard concept. 
+
+
+
+18: (0.563)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Where did you read that she came forward because of his politics?
+
+19: (0.563)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+And the allegation is attempted rape.
+
+20: (0.554)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+>the right loves rape and pedophilia and have a history of defending those acts and endorsing the attackers while attacking the victims
+
+Is that while the current administration has arrested more pedophiles and sex traffickers per year than any other administration?
+
+>Never let a Republican date your daughter , they're raised to believe it's normal to beat and rape women and to molest children
+
+Lmao wtf are you even talking about? You sound like a lunatic.
+
+
+  ** Topic 7 ** :
+
+Top Tokens:
+1: feinstein	99.036
+2: letter	77.036
+3: ford	69.036
+4: people	52.036
+5: public	45.036
+6: leaked	42.036
+7: story	31.036
+8: office	28.036
+9: trump	27.036
+10: job	26.036
+11: hit	26.036
+12: timing	22.036
+13: anonymous	21.036
+14: hey	21.036
+15: democrats	21.036
+16: remain	20.036
+17: hearings	18.036
+18: house	18.036
+19: committee	18.036
+20: weeks	17.036
+
+Top Posts:
+1: (0.908)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+> ...she grappled with concerns about what going public would mean for her and her family — and what she said was her duty as a citizen to tell the story...
+
+> ...By late August, Ford had decided not to come forward, calculating that doing so would upend her life and probably would not affect Kavanaugh’s confirmation...
+
+She was thinking about going public, later decided it probably wasn't worth it, then somebody leaked the story and everything else came with it.
+
+2: (0.779)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Like the Washington Post, Anna Eshoo, and Diane Feinstein (who is a high ranking member of the judiciary committee) who all found out in July.
+
+3: (0.734)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+*She could of kept it confidential and still brought it to the SJC to be investigated. She could of sent a letter to the FBI and kept it confidential.*
+
+Facts are she didn't, she didn't even ask him in the 1v1 interview they had.
+
+There are 2 people who could of leaked the letter blowing up her confidentiality.
+They are Feinstein, and Ford herself.
+
+In fact there is an [investigation](https://www.politico.com/story/2018/09/30/cotton-feinstein-ford-leaked-letter-854019) on Feinstein's office to determine if she leaked it.
+
+Edit: Also that article cites a Bar investagion on Ford's lawyers. They were recommended by Feinstein. 
+
+4: (0.701)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+So she comes forward with this in July. We go through the entire nomination hearings, where thousands of documents are presented and questioned, and it's not mentioned or brought up once? It's not even hinted at until after the hearings. Then it's bright forward when it's clear he's going to be confirmed. 
+
+That's not fishy. Ok. Keep those blinders on.
+
+5: (0.675)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Two two. We want two... gotta replace scalia’s douchery with more douchery 
+
+6: (0.675)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Feinstein received the original letter, not Pelosi. 
+
+7: (0.672)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+The senator could have sent it to the FBI and not released to the public.
+
+Her staffers leaked it regardless at the most political opportune time. Smells fishy.
+
+8: (0.669)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+If you watched the hearing you'd know that Feinstein respected Dr. Ford's wish for privacy, confident her office didn't leak the info. It likely came from a friend of Dr. Ford (she admitted that she told multiple friends if contacting Feinstein's office), at which point, Dr. Ford & Feinstein went public. 
+
+
+
+9: (0.669)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+How is that a head scratcher?
+
+Does something about a polygraph magically equal public announcement of who you are? They seem like completely separate things.
+
+Now if "she went public" but "wished to remain anonymous" that would be a head scratcher because those two things are mutually exclusive. Taking a polygraph and remaining anonymous to the public are not mutually exclusive.
+
+10: (0.66)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+She reported this months ago, and it's taken that long for the allegations to become public. She had actually given up, and the allegations ended up leaking and forcing her to come public:
+
+>She contacted The Post through a tip line in early July, when it had become clear that Kavanaugh was on the shortlist of possible nominees to replace retiring justice Anthony M. Kennedy but before Trump announced his name publicly. A registered Democrat who has made small contributions to political organizations, she contacted her congresswoman, Democrat Anna G. Eshoo, around the same time. In late July, she sent a letter via Eshoo’s office to Sen. Dianne Feinstein of California, the ranking Democrat on the Judiciary Committee.
+
+>In the letter, which was read to The Post, Ford described the incident and said she expected her story to be kept confidential. She signed the letter as Christine Blasey, the name she uses professionally. 
+
+>Though Ford had contacted The Post, for weeks, she declined to speak on the record as she grappled with concerns about what going public would mean for her and her family — and what she said was her duty as a citizen to tell the story.
+
+>She engaged Debra Katz, a Washington lawyer known for her work on sexual harassment cases. On the advice of Katz, who believed Ford would be attacked as a liar if she came forward, Ford took a polygraph test administered by a former FBI agent in early August. The results, which Katz provided to The Post, concluded that Ford was being truthful when she said a statement summarizing her allegations was accurate.
+
+>By late August, Ford had decided not to come forward, calculating that doing so would upend her life and probably would not affect Kavanaugh’s confirmation. “Why suffer through the annihilation if it’s not going to matter?” she said.
+
+>Her story leaked anyway.
+
+11: (0.649)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Why do you assume the Democrats on the committee have anything to do with the leak?  The letter itself didn't seem like it was leaked, since we haven't seen the letter.  Ford admitted to telling friends about the letter and allegations though.
+
+12: (0.641)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+I’m playing devils advocate, but Ford specifically wanted to keep her name private. Feinstein, it could be argued, was attempting to do so. IIRC, Ford even talked about she only came forward publicly once she started being hounded by reporters and realized her name was going to be published regardless. 
+
+13: (0.638)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+The letter was actually given to Rep Anna Eshoo, who gave it to Sen Feinstein. 
+
+14: (0.637)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+"The Democrats" in this instance means two Congresspersons, who were the representatives of the alleged victim.  Senator Feinstein only released it after the press reported on the issue.  It was not the strategy of the  Dems on the Judiciary committee for this to become public.
+
+15: (0.632)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+> In late July, she sent a letter via Eshoo’s office to Sen. Dianne Feinstein of California, the ranking Democrat on the Judiciary Committee.
+
+> In the letter, which was read to The Post, **Ford described the incident and said she expected her story to be kept confidential...**
+
+> Though Ford had contacted The Post, for weeks, **she declined to speak on the record as she grappled with concerns about what going public would mean for her and her family** — and what she said was her duty as a citizen to tell the story...
+
+> **By late August, Ford had decided not to come forward, calculating that doing so would upend her life** and probably would not affect Kavanaugh’s confirmation. “Why suffer through the annihilation if it’s not going to matter?” she said.
+
+> **Her story leaked anyway. On Wednesday [after the end of the hearing], The Intercept reported that Feinstein had a letter describing an incident involving Kavanaugh and a woman while they were in high school, and that Feinstein was refusing to share it with her Democratic colleagues.**
+
+> **Feinstein soon released a statement:** “I have received information from an individual concerning the nomination of Brett Kavanaugh to the Supreme Court,” she wrote. “That individual strongly requested confidentiality, declined to come forward or press the matter further, and I have honored that decision. I have, however, referred the matter to federal investigative authorities.”
+
+> The FBI redacted Ford’s name and sent the letter to the White House to be included in Kavanaugh’s background file, according to a Judiciary Committee aide. **The White House sent it [the letter] to the Senate Judiciary Committee, making it available to all senators.**
+
+> As pressure grew, the New York Times reported that the incident involved “possible sexual misconduct.”
+
+> By then, **Ford had begun to fear she would be exposed**. People were clearly learning her identity: **A BuzzFeed reporter visited her at her home and tried to speak to her as she was leaving a classroom where she teaches graduate students.** Another reporter called her colleagues to ask about her.
+
+> **On Friday, the New Yorker reported the letter’s contents** but did not reveal Ford’s identity...
+
+Emphasis and items in brackets mine. She was only motivated to go public by the leaks and reporters literally coming to her front door which occurred after the end of the hearing.
+
+16: (0.625)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Feinstein redacted her name when she forwarded the letter.
+
+17: (0.615)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I implied the opposite of a conspiracy.  I said only that her timing was bad.  It would have been advantageous for Feinstein to release it earlier so that the nomination wouldn't have gotten out of committee.   Waiting this long was bad for everyone, not part of a "plan".   Feinstein ultimately didn't grant the privacy, so if she was going to release it anyway it should have been from the start.
+
+18: (0.598)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+The FBI is not investigating him. Dianne Feinstein received the letter this summer apparently, has SAT on it, and just now releases it right smack in the middle of the hearings. Awfully good timing to release the letter both on the person writing it and on Feinstein releasing it just now. 
+
+19: (0.598)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+> I don’t believe the upper echelon of the Dems did this to help Ford
+
+But... they didn't initiate it. She did. And they even kept her anonymous at her request despite it weakening their case. The Dems may have appreciated the info and timing, but they didn't really "do" anything except pass information along.
+
+20: (0.587)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+My question is how was the LETTER leaked. The letter that was supposedly sent only to feinstein was leaked before they went public. Plus ford specifically states that she never mentioned Kavanaugh’s name. It seems pretty suspicious to me at least. On top of all of this Feinstein started to stumble around when asked about her staff (yes she did say she asked her staff if they leaked it but it wasn’t that convincing) I feel bad for both parties I feel like both probably believe what they are saying
+
+
+  ** Topic 8 ** :
+
+Top Tokens:
+1: people	452.036
+2: person	228.036
+3: make	216.036
+4: good	186.036
+5: time	179.036
+6: things	178.036
+7: point	161.036
+8: thing	139.036
+9: feel	130.036
+10: agree	126.036
+11: matter	105.036
+12: wrong	104.036
+13: understand	103.036
+14: bad	101.036
+15: made	100.036
+16: political	99.036
+17: side	94.036
+18: lot	92.036
+19: truth	82.036
+20: making	80.036
+
+Top Posts:
+1: (0.822)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I’m sure there are altruistic aspiring politicians. Of course there are. But I do believe it is a very small minority. 
+
+Plus, I disagree with your main point that the public is smarter than the individual. I think it is the exact opposite currently.  
+
+And also, I believe the media is driven by money. And unfortunately, the way it is currently being presented is BECAUSE this type of media is what gains viewers. This is what the public wants. 
+
+That is why all faith has been lost completely in the system. I am glad that people like you exist and are optimistic about it. But to me, it is broken. 
+
+2: (0.788)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+? What. Yeah. I was trying to point out that it's a good thing. Sorry if that wasn't clear. I'm about as liberal as they come, but try to ride the middle line in debates so I can at least understand the other side's points. I'm fairly entertained I got mistaken for a conservative.
+
+3: (0.788)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+False memories encode in the brain the same as a real memory.
+
+Was doing some research and they dont.  Sorry I must not of been paying as much attention in class as I thought.  I saw some research, but it was talking about memories created recently.
+
+4: (0.776)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+You choose your beliefs, so that doesn't work as a defense of repeating things you know to be false.  
+
+5: (0.776)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+So now I am making claim and mine isn't believed but hers is? Excellent logic. I appreciate the acceptance 
+
+6: (0.772)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+What a thoughtful and well reasoned reply. You really showed me.
+
+Only problem is that there were actually pro Clinton sentiments in there, but hey, reading is hard and who really has the time, amirite?
+
+Sorry about that. I'll write it in crayon and use smaller words and pictures next time.
+
+7: (0.75)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Yep. It's also that you can both work hard and have advantages, and people don't like admitting that they've had advantages when they feel they've worked hard.
+
+8: (0.75)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Good points all around. American politics are becoming more and more like reality television 
+
+9: (0.75)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Why is it that no matter what actually happens people have to make up a counterfactual that fits their own beliefs? 
+
+10: (0.75)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+That's how you feel when we harass politicians, figured the logic carried over. 
+
+11: (0.742)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Frankly I dont care whether you like me or not, and all I did was disagree with you.  My opinion doesn't have to be liked or well received but I'll defend it nonetheless.  Instead of trying to tell me what I'm saying is "false" maybe you should try and change people's mind, get them to see it from your perspective.  Its helluva lot more effective.  And no one here is "wrong" we simply have differing views.  I never once attacked yours, but only offered a different way of seeing things. But that doesn't mean you should try to insult me.  It only gives me a reason to write you off as a waste of my time.  Which you are quickly becoming.  
+
+12: (0.737)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I would agree with that theory. 
+
+The problem is I truly believe that a person who pursues a career in politics is usually (and not always, but I’d wager the vast majority) wealthy, entitled, and more thirsty for power than trying to ‘change the status quo’.   Unfortunately the system has been set up to reward that type of a person. And because if this, the further up you go, those qualities are even stronger and more prevalent. 
+
+And personally, people with those qualities are NOT my favorite type of people. But meanwhile, they are the ones I have to choose between when I elect my representatives. It really is a shame. 
+
+13: (0.716)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Haven't said such things. I don't have any strong opinions on the education system currently.
+
+14: (0.716)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Probably not, which should tell you even more about how much respect the legal system has for the technology under discussion.
+
+15: (0.716)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+true. but in the meantime it should be weaponised against him for political points.
+
+16: (0.715)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+So if putting a mirror to someones own horrible behavior is a reason to hate the one holding the mirror. Is the hate really correctly directed?
+
+17: (0.709)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I'm just saying that it becomes a little more real when you're actually put in that position. Not defending him specifically on this matter. Just putting it into context, I don't think he's being a hypocrite, I just think he's being smart.
+
+I'm guessing a lot of people who are okay with the United States being at war all the time would have a different opinion if you dropped them into the middle of an actual war. That's all I'm saying.
+
+18: (0.707)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+No worries man, if not for the "he feels entitled to his life" it would be pretty tough to tell which way that comment was going, I can picture Tucker Carlson using the exact same words but in defense of Kavanaugh.
+
+19: (0.707)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+People do change their opinion, especially when you're actually put into a position like this where a machine might decide whether you're guilty or innocent (at least by public opinion).
+
+Not going to knock someone for that. I used to like/approve of a lot of things that I don't now.
+
+20: (0.702)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+And there it is, a mistake made, but instead of acceptance and responsibility you try to talk your way around it. Instantly lost my respect. 
+
+
+  ** Topic 9 ** :
+
+Top Tokens:
+1: constitution	39.036
+2: law	38.036
+3: conservatives	30.036
+4: states	24.036
+5: legal	24.036
+6: rights	19.036
+7: abortion	19.036
+8: history	17.036
+9: government	17.036
+10: american	17.036
+11: laws	16.036
+12: defamation	15.036
+13: state	15.036
+14: modern	13.036
+15: fathers	13.036
+16: human	13.036
+17: interest	13.036
+18: torture	13.036
+19: intended	12.036
+20: words	11.036
+
+Top Posts:
+1: (0.851)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+You know that the slavery in the Constitution was a huge compromise that allowed this country to form right? The founds absolutely did not want slavery and it was necessary to get enough votes to declare independence from England 
+
+2: (0.838)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+It really is. Once upon a time, progressive ideas about equality, women's rights, civil rights, lgbt rights and anti-authoritarianism in general were counter culture. Now? It's right-wing authoritarianism that is the counter culture. If our modern society went through a peaceful revolution to get where we are, then this is the counter-revolution and they're not so keen on being peaceful about it.
+
+3: (0.836)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Did you read the cornell law that I linked to you?   
+
+
+" whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the [United States](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=18-USC-2032517217-1912303260&term_occur=654&term_src=title:18:part:I:chapter:47:section:1001), knowingly and willfully—   
+
+
+ **(3)**
+
+makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent [statement](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=18-USC-2085148305-1385535746&term_occur=40&term_src=title:18:part:I:chapter:47:section:1001) or entry;  
+
+
+ shall be fined under this title, imprisoned not more than 5 years or, if the [offense](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=18-USC-1548815702-833647311&term_occur=248&term_src=title:18:part:I:chapter:47:section:1001) involves international or domestic terrorism (as defined in [section 2331](https://www.law.cornell.edu/uscode/text/18/2331)), imprisoned not more than 8 years, or both."  
+
+
+ "With respect to any matter within the jurisdiction of the legislative branch, subsection (a) shall apply only to—   
+
+
+ **(2)**
+
+any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or [office](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=18-USC-1019789636-1418573007&term_occur=62&term_src=title:18:part:I:chapter:47:section:1001) of the Congress, consistent with applicable rules of the House or Senate."
+
+4: (0.774)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+>You know that the slavery in the Constitution was a huge compromise that allowed this country to form right?
+
+Yes. 
+
+> The founds absolutely did not want slavery and it was necessary to get enough votes to declare independence from England 
+
+So you're say that the founding fathers, many of whom owned slaves, who *compromised* on the issue, "absolutely did not want slavery?" That's a revision of history I haven't heard before.
+
+
+
+5: (0.774)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+>are you trying to say that modern conservatives exist in an ideological bubble and have no history?
+
+No, but the line from past bigotry to modern conservativism isn't straight and clear, as they alleged.
+
+And are you saying that modern leftists/progressives exist in an ideological bubble and have no history? Because there's a ton of bigotry, racism, classism, and death in their past.
+
+6: (0.762)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+This is not revision at all my friend. Here is Abraham Lincoln on the founding fathers and their take on slavery:
+
+The argument of "Necessity" was the only argument they ever admitted in favor of slavery; and so far, and so far only as it carried them, did they ever go. They found the institution existing among us, which they could not help; and they cast blame upon the British King for having permitted its introduction. BEFORE the constitution, they prohibited its introduction into the north-western Territory---the only country we owned, then free from it. AT the framing and adoption of the constitution, they forbore to so much as mention the word "slave" or "slavery" in the whole instrument. In the provision for the recovery of fugitives, the slave is spoken of as a "PERSON HELD TO SERVICE OR LABOR." In that prohibiting the abolition of the African slave trade for twenty years, that trade is spoken of as "The migration or importation of such persons as any of the States NOW EXISTING, shall think proper to admit," &c. These are the only provisions alluding to slavery. Thus, the thing is hid away, in the constitution, just as an afflicted man hides away a wen or a cancer, which he dares not cut out at once, lest he bleed to death; with the promise, nevertheless, that the cutting may begin at the end of a given time. Less than this our fathers COULD not do; and NOW [MORE?] they WOULD not do. Necessity drove them so far, and farther, they would not go. But this is not all. The earliest Congress, under the constitution, took the same view of slavery. They hedged and hemmed it in to the narrowest limits of necessity.
+
+In 1794, they prohibited an out-going slave-trade---that is, the taking of slaves FROM the United States to sell.
+
+In 1798, they prohibited the bringing of slaves from Africa, INTO the Mississippi Territory---this territory then comprising what are now the States of Mississippi and Alabama. This was TEN YEARS before they had the authority to do the same thing as to the States existing at the adoption of the constitution.
+
+In 1800 they prohibited AMERICAN CITIZENS from trading in slaves between foreign countries---as, for instance, from Africa to Brazil.
+
+In 1803 they passed a law in aid of one or two State laws, in restraint of the internal slave trade.
+
+In 1807, in apparent hot haste, they passed the law, nearly a year in advance to take effect the first day of 1808---the very first day the constitution would permit---prohibiting the African slave trade by heavy pecuniary and corporal penalties.
+
+In 1820, finding these provisions ineffectual, they declared the trade piracy, and annexed to it, the extreme penalty of death. While all this was passing in the general government, five or six of the original slave States had adopted systems of gradual emancipation; and by which the institution was rapidly becoming extinct within these limits.
+
+Thus we see, the plain unmistakable spirit of that age, towards slavery, was hostility to the PRINCIPLE, and toleration, ONLY BY NECESSITY
+
+
+
+7: (0.726)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Democrat judges voted to ban sawed of shotguns for not being useful in a militia. This passed.
+
+Democrats judges voted guns like the AR-15 were exempt from civilian ownership since they were intended for use in a militia, and since we dont have a militia, we dont need AR-15s. This did not pass.
+
+But point being, these two beliefs cannot coexist. The 2nd amendment is clearly defined in it's own words and any interpretation by a judge is a bastardization to suit themselves. Problems like this should not arise.
+
+8: (0.713)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I have never really understood their ilk. Yes, I consider the constitution a sacred document, but not an infallible one; Constitutionalists seem to see it as actually being /divine/, unquestionable and untouchable. Culture, science, and time must stagnate in service of leaving it untouched. But the Founding Fathers were not perfect, they were as human as anyone, and it took a few iterations to get the documents we have. They screwed up more then a few times in the drafting period. 
+
+9: (0.7)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The law is a tool.  It does not exist on its own, it exists to serve a purpose.  An enlightened civilized society would be able to bend the law when it no longer served that purpose.  Unfortunately, conservatives, especially American conservatives, see law as an end in itself.
+
+10: (0.677)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+>Article III
+
+>Section 1.
+
+>The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. **The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour**, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.
+
+
+https://www.law.cornell.edu/constitution/articleiii
+
+
+11: (0.662)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+The US constitution actually doesn't contain an explicit right to judicial review; 40 years after some justice just said it would be there and the legislative didn't challenge it and now it's gone on for too long to challenge it; the US was indeed one of the first to did that.
+
+Other countries followed and some as a reaction including my own explicitly banned it because they felt it would turn the courts political rather than neutral..
+
+There still seem to be two schools of thought regarding constitutions whether they should be clear and technical or vague and political though; my own constitution is really mostly concerned with how the state operates and doesn't really contain much about rights and stuff which is just in the law itself; there's as said no judicial review either.
+
+Other constitutions have these weird "philosophies" in their constitution like defining official state ideologies or languages which for the most part here is just in the actual _law_ itself, not the constitution which covers the mechanism by which new laws are created.
+
+12: (0.644)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+fantastic, enjoy the revolts in each red state over abortion bans. that'll be great for your economies.
+
+13: (0.624)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Nothing more punk and rebellious than regressing past your ancestors, preying on those in a less privileged position than you and supporting/glorifying existing hierarchies of power. 
+
+14: (0.608)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+And Republican justices, with their fifty year majority, have also upended precedent consistently to give corporations all the power over employees, customers, and citizens. They've in fact given corporations every benefit, and then some, that a citizen has, while removing from corporations all responsibility.
+
+In the scope of things, me being able to own a slightly narrower type of gun will not ever negatively impact my life in the slightest.
+
+Me not being able to join a class action lawsuit against predatory employers or financial institutions who completely upend our lives so they can see record profit year after year. Me not being able to ever afford health insurance for my family, and even if I do own health insurance there's still massive financial risk by mere broken bones, that will affect my life and most Americans lives.
+
+As soon as your well regulated militia runs into a problem stemming from lack of sawed off shotguns, let me know.
+
+15: (0.599)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+>the weren't intended to be backseat legislators who "interpret laws",
+
+.... the job of a judge is to interpret the law. Just because they interpret in a way you don't like doesn't mean that they're not interpreting the law.
+
+Law is subjective. Interpretation of law is far more an art than a science. I strongly encourage you to take some time to read through some important Supreme Court cases where there are split decisions, 5-4 or 6-3, at the very least something with a majority opinion and one or more dissents or concurrences. Read through the arguments, see how each side presents a persuasive vision of what the same set of words "says."
+
+Edit: The example I always give is the Eighth Amendment, which reads in full: "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted." How that Amendment is interpreted is massively subjective. How much bail is "excessive bail?" How large a fine is an "excessive fine?" What is "cruel" punishment? What is "unusual" punishment? All of these questions are inherently subjective and different judges can come to wildly different conclusions about what the answers are, *and there is no way to say objectively who's right.* It all comes down to whose answer gets the most votes at the time.
+
+16: (0.593)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+are you trying to say that modern conservatives exist in an ideological bubble and have no history?
+
+17: (0.583)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> He basically says Islam is inherently a violent, awful religion. Which is just not the case.
+
+The part of Islam we're in conflict with is indeed a violent, awful religion.
+
+18: (0.58)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+"As the framers intended", of course, completely glosses over their enormous and bitter disagreements in drafting it, and the fact that the final document is a compromise that none of the framers would probably consider "their vision".
+
+And compared to the standards of today's Congress, it's a transcendental achievement.
+
+19: (0.577)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The law should be interpreted as written, and as it was understood when it was written, And I don’t think that’s a bad thing.
+
+The cool thing about our system of government is that we have peaceful ways of changing what the law says.
+
+I wish we were more willing to update our laws to reflect current human context. 
+
+Instead of doing the hard work of persuading fellow citizens that the law should be changed, too many people want to instead twist the truth about what a law really means or was intended to mean in order to get their desired outcome through the courts.
+
+I wish we could all be honest and just legislate the changes we want through the processes we already have. If a majority of the citizenry doesn’t want them changed then we should leave the law as it is, not try to manipulate how it is interpreted through the courts.
+
+20: (0.576)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Are you an expert in the Slander & Libel Laws in each of the States as they of course vary from State to State.
+
+
+  ** Topic 10 ** :
+
+Top Tokens:
+1: polygraph	325.036
+2: polygraphs	145.036
+3: test	129.036
+4: lie	81.036
+5: lying	65.036
+6: questions	49.036
+7: truth	45.036
+8: science	43.036
+9: tests	40.036
+10: results	37.036
+11: work	36.036
+12: pass	35.036
+13: passed	34.036
+14: unreliable	32.036
+15: court	32.036
+16: useless	31.036
+17: accurate	27.036
+18: detector	25.036
+19: good	25.036
+20: reason	24.036
+
+Top Posts:
+1: (0.834)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+TS SAR SCI almost always requires poly, TS SCI w/ poly is also an established level of clearance for working within the IC. Non IC work, like DOD - 24th AF and TS SAR SCI work usually doesn’t require a poly, just the chance you may have to provide one.
+
+Also, Polys come in two flavors, full scope, or CI. One of them is “any question is allowable” the other is 6 questions which surmount to “are you a spy”
+
+2: (0.781)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Actually it could prove they might have high blood pressure....... I mean that's what the polygraph was invented as a way to test for hypertension not a lie. how it became used as a lie detector is pretty much thanks to Hollywood. 
+
+3: (0.765)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+They don't "go off", there isn't like a buzzer that says "HA THAT DUDE IS LYING". It is a guy trained to read polygraph charts looking at graphs showing your various autonomic functions that you can't see.
+
+4: (0.762)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Plus, in the report I read she was asked two distinct questions only, which isn’t how polygraphs are administered.  The administrator is to first establish a baseline by asking general questions of which the answer is already known.  Only asking two questions fails to do much if anything.  
+
+5: (0.756)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+The 2 Question Polygraph that literally asked her if she was lying or nah? That one? That's good enough to destroy a man's life? You do know polygraph tests don't actually determine if you're telling the truth or not, right? They read your physiological responses, such as pulse, heart rate, whatever. There Is No evidence that proves that any one physiological response can show deception. This is why polygraph tests are NOT admissible in court. They are not accurate and they mean less than nothing. 
+
+6: (0.755)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+SWIM was trained to misinterpret the questions to trigger a "truthful" response.
+
+Sometimes this can be bending the english language to answer a different question that the Test Administrator actually asked, and sometimes its by providing false postives on his read questions like your name, age, etc.
+
+Also many prescription drugs throw off heart-rate, blood pressure and respirations. Allowing you to just straight up lie your ass off.
+
+Theres a reason Lie Detectors arent admissible in court.
+
+7: (0.747)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+The only actual utility a polygraph has is as a tool of intimidation, the science behind it is junk.
+
+8: (0.742)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+The accuracy (i.e., validity) of polygraph testing has long been controversial. An underlying problem is theoretical: There is no evidence that any pattern of physiological reactions is unique to deception. An honest person may be nervous when answering truthfully and a dishonest person may be non-anxious. Also, there are few good studies that validate the ability of polygraph procedures to detect deception. As Dr. Saxe and Israeli psychologist Gershon Ben-Shahar (1999) note, "it may, in fact, be impossible to conduct a proper validity study." In real-world situations, it's very difficult to know what the truth is.
+
+A particular problem is that polygraph research has not separated placebo-like effects (the subject's belief in the efficacy of the procedure) from the actual relationship between deception and their physiological responses. One reason that polygraph tests may appear to be accurate is that subjects who believe that the test works and that they can be detected may confess or will be very anxious when questioned. If this view is correct, the lie detector might be better called a fear detector.
+
+Some confusion about polygraph test accuracy arises because they are used for different purposes, and for each context somewhat different theory and research is applicable. Thus, for example, virtually no research assesses the type of test and procedure used to screen individuals for jobs and security clearances. Most research has focused on specific incident testing. The cumulative research evidence suggests that CQTs detect deception better than chance, but with significant error rates, both of misclassifying innocent subjects (false positives) and failing to detect guilty individuals (false negatives).
+
+Research on the processes involved in CQT polygraph examinations suggests that several examiner, examinee, and situational factors influence test validity, as may the technique used to score polygraph charts. There is little research on the effects of subjects' differences in such factors as education, intelligence, or level of autonomic arousal.
+
+Evidence indicates that strategies used to "beat" polygraph examinations, so-called countermeasures, may be effective. Countermeasures include simple physical movements, psychological interventions (e.g., manipulating subjects' beliefs about the test), and the use of pharmacological agents that alter arousal patterns.
+
+http://www.apa.org/research/action/polygraph.aspx
+
+9: (0.737)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I've taken them when I worked for the US Government. If they only asked two questions, then that was the most worthless POS polygraph. Between the control questions to establish a baseline and the real questions, I was hooked up to the machine for more than 45 minutes and they probably asked me 15-20 different questions. 
+
+10: (0.722)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+The polygraph was invented in an effort to determine if one has hypertension. 
+
+Polygraphs do not detect lies and the concept that they do was created mostly by Hollywood who ran with the idea after law enforcement experimented with it. Sadly all the science proved it is not effective in proving lies but Hollywood still ran with the idea. This is why most people think they work. 
+
+Now because most people believe the Hollywood lie. Attorneys do stoop to the level of using them to persuade juries. The lie detector itself is not allowed as evidence however attorneys will use it as arguments for the jury such as "oh they didn't take it they must be hiding something or lying" or "they took the polygraph and it proves they aren't lying" to which most people have been conditioned to believe Hollywood. 
+In the end science doesn't like but polygraphs do when it comes to using it for it's unintended use for detecting lies. I don't recall it even working to discover hypertension. 
+
+
+11: (0.717)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because polygraphs are about as accurate as your horoscope.
+
+Actually, a horoscope is probably closer to being scientific.
+
+12: (0.717)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Polygraph tests aren't accurate and you could easily pass one with a little training. 
+
+13: (0.715)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+>The accuser has taken a polygraph, which detected no deception, and folks on the right still refuse to believe her. 
+
+Your statement is not accurate.  The polygraph *detected no evidence of deception* which means the polygraph could not prove she was lying.  It does NOT mean she was telling the truth, polygraphs are highly unreliable and people can easily fake them. That is why they are not accepted as reliable evidence.
+
+14: (0.704)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Polygraphs are virtually useless at determining if someone is telling the truth.  Everybody should research this.  The evidence is very one-sided.
+
+15: (0.696)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The thing about edgyness is that it's inherently antisocial. It relies on shock and so the far right can use it as smoke screen, an infiltration device, and a recruitment tool. 
+
+16: (0.685)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+polygraphs are unreliable and easy to fake. it's so easy in fact, to fool a polygraph that simply having an attractive person administer the test can cause you to fail as the bodyil functions that it uses to detect lies also come into effect when you're slightly aroused.
+
+17: (0.68)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Polygraphs are just a subject of pseudoscience. Actual baloney anyway.
+
+18: (0.68)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Probably because he knows that the polygraph test is incapable of proving someone is lying
+
+19: (0.68)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+And passed a lie detector test (which of course isn't 100% accurate, but still...).
+
+20: (0.68)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Have had two types of security clearances for projects, did not need a polygraph.
+
+
+  ** Topic 11 ** :
+
+Top Tokens:
+1: democrats	179.036
+2: republicans	169.036
+3: trump	148.036
+4: party	138.036
+5: vote	132.036
+6: political	131.036
+7: republican	80.036
+8: time	68.036
+9: allegations	64.036
+10: dems	58.036
+11: power	54.036
+12: hold	53.036
+13: confirmation	52.036
+14: years	50.036
+15: left	50.036
+16: president	49.036
+17: process	46.036
+18: candidate	46.036
+19: election	46.036
+20: democrat	46.036
+
+Top Posts:
+1: (0.881)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+They will, and they have.  I don't think that's disputed. Both sides want to confirm Justice's that lean more towards their values. 
+
+This can't really be disputed when party lines say they will vote no on any justice a President picks before the nominations are announced. Democrats did that with Neil and Brett (before they were announced) and Republicans did that (in essence) by saying we won't hold a vote (effectively voting no while holding majority) for Merrick (before Obama announced him). So I don't think it is a "should we pack the courts", it is a "when we pack the courts".
+
+At least, that's my take on it.
+
+2: (0.864)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I went back to double check and I did math wrong. It was 9 months, my bad. Merrick Garland nomination remained before the Senate for 293 days.  9.6 months. I started by playing semantics now I'm trapped! ?
+
+It wasn't their seat. It required a majority Senate vote and Republicans controlled the Senate. Sure, some may have votes across the aisle but we don't know that and it seems in this political environment it is unlikely. Regardless, you can't say Democrats, by right, should have had that seat when the opposition controlled the majority required to confirm.
+
+3: (0.831)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+You have to look at the situation. Merrick was a moderate left acceptable over some further left potentials. However, the GOP realized they didn't need to accept moderate left because they could delay until a moderate right was nominated. 
+
+Democrats are doing the same thing, if midterms were over they would accept a moderate right nominee as the best of the "worst" (meaning any justice that's right leaning). Now they see a chance to delay until midterms and the potential opportunity to force a moderate left nominee.
+
+I dunno man, I see this as two methods to accomplish the same goal. It's about stifling the other side. 
+
+4: (0.829)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+February 13, 2016-January 20th, 2017. So no 11 months, and I brought it up since you mentioned that the nomination was being delayed.  So yes the democrats are delaying the nomination, otoh hand they are using the same tactic used against them to get "their" seat back, since by rights if the Senate approached the last nomination in a forward manner the last candidate would have been Democratic
+
+5: (0.797)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+"We intend to follow the McConnell Rule and give the voters a chance to decide who they think should replace the late Justice Ginsburg" 
+Say it slowly, Reps. 
+
+6: (0.776)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Also he's a partisan hack whose opinion on executive immunity depends on the party of the executive. 
+
+7: (0.769)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+This is *entirely* the motivating factor behind all of this garbage. Republicans want the confirmation now, while they have the majority, and Democrats want to hold off until they are likely to hold a little more power and a lot more sympathy. 
+
+8: (0.741)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Trump picked Kavanaugh because of his opinion that a president cannot be prosecuted.   Apparently, he wasn’t even on the list of the Federalist Society presented when Gorsuch  was chosen.  Republicans by and large did not want to nominate him.  
+
+A vote for Kavanaugh is vote of approval of Trump.
+
+9: (0.736)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Have a *republican lite* party form. Then when everyone votes, the majority seats will be held by this new party and the Democrats. The current republicans will be pushed into obscurity.
+
+10: (0.726)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+It’s virtually impossible for political partisanship to not exist in the SCOTUS. Nominees are selected by a president that is affiliated with a political party and confirmed by a Congress that is affiliated with political parties. Anyone not partisan enough will never get through this process. At the very least they will need to “lean” a certain way. 
+
+Perhaps a random name of a Federal judge should be chosen by lottery and then vetted by Congress?
+
+11: (0.723)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I voted in our primaries and I intend to continue that vote. All blue.
+
+12: (0.708)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+None of these dems are voting to confirm Kavanaugh. 
+
+&#x200B;
+
+Associate Justice Kavanaugh. Say it slowly, dems.
+
+13: (0.704)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+>If there was due process in politics,  Merrick Garland would be an Associate Justice of the Supreme Court today
+
+Obama nominated Garland a full month after the senate had already said that they would not be holding a vote for SCOTUS during the election year. He wasn't denied a trial after. The senate said this BEFORE Obama nominated anybody. Obama did it anyway, knowing that they already said they were not going to consider one.
+
+&#x200B;
+
+This argument is completely stupid. Nobody knew in March who was going to win the election in the fall. Hillary could have won and she would have gotten to pick and they would have held a vote then.
+
+&#x200B;
+
+Trying to compare what the left are doing to Kavanaugh to Garland not getting a vote despite being improperly nominated by the POS President at the time just makes your party look even more foolish.
+
+&#x200B;
+
+He wasn't 'denied a vote'. He should not have been nominated by Obama in the first place.
+
+14: (0.699)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+There is no deadline. If the voters choose different representation during this process and that representation won’t confirm him, then I believe the GOP is on record saying we should wait for that vote. 
+
+15: (0.686)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Not the Republicans!!  They would never delay an appointment.  They certainly wouldn't delay it indefinitely!
+
+16: (0.686)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+I already have started voting straight ballot D and am registered D
+
+17: (0.68)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+“I saw him run over a squirrel in his truck 15 years ago. Unfit candidate!” - a democrat, somewhere
+
+18: (0.677)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Huh. Didn't know that. You're right - it's highly unlikely the Dems take the Senate so there's basically no reason for them to not delay this.
+
+Edit: It is likely the Dems take the House though - 538 says about 75-80% chance.
+
+19: (0.672)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The ability to prevent a confirmation if both parties did not agree to the nomination is the reason why this administration has eliminated the rule that if there is a threat of filibuster, the vote must have 60/100 senators’ approval. Now, the Republicans can confirm him without any Democrats unless a brave Republican senator votes against. Right now, it’s 51 Republicans vs 49 Democrats in the senate.
+
+
+
+20: (0.662)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+That is the true true.
+
+I was just arguing with some people about a Democratic vote on a tax bill. 3 Dems crossed the line to let it pass. "Just enough to win -- like always" they quipped.
+
+Sure, it's messy and there are phonies - but the only way to get politicians to act how we want them to is to reward those who pay lip service to our demands and punish those who don't. We should do more kickstarters that fund the opposition or go with the candidate when they vote the way we want them to.
+
+How do religions take over? They burn the heretics. Who cares what Democrats think or why they vote. If we destroy the lives of the 3 that voted for the Republican tax bill, then it won't matter.
+
+
+  ** Topic 12 ** :
+
+Top Tokens:
+1: women	217.036
+2: men	158.036
+3: sexual	79.036
+4: white	72.036
+5: woman	68.036
+6: assault	64.036
+7: kavanaugh	56.036
+8: man	53.036
+9: believed	42.036
+10: sexually	38.036
+11: assaulted	36.036
+12: held	34.036
+13: privileged	32.036
+14: accountable	29.036
+15: people	29.036
+16: allegations	26.036
+17: problem	25.036
+18: true	23.036
+19: top	23.036
+20: thought	22.036
+
+Top Posts:
+1: (0.805)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+1. **#IBelieveHer**  
+This isn't twitter.
+2. it's only the WOMEN who are never believed  
+This isn't twitter.
+3. privileged white men are rarely held accountable for their actions.  
+This isn't twitter.
+
+In short: This isn't twitter.
+
+2: (0.758)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Privileged white men are rarely held accountable.... except men receive 60% higher sentences than women [for the same crimes](https://huffpost.com/us/entry/us_1874742). How often do you see a male teacher get off for having sex with an underage student? How often does it happen with women? Not to mention polygraphs are worthless and she freaking volunteered for it.
+
+3: (0.743)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+I'm not controlling anything. I'm commenting on Reddit. 
+
+You won't answer my question, which is very interesting. You're just saying "women do bad things too!" As if that makes men sexually assaulting women okay. 
+
+A woman being a stripper is not comparable to sexual assault unless she gives a non consensual lap dance, and if a man paid for it then chances are he is consenting. That you think it is reveals much about how you see women.
+
+>If you're not ok with his statement then there should be some heavy consideration to a myriad of other social and sexual topics. 
+
+So you approve of sexual assault.
+
+4: (0.726)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Ding ding ding. If the Thomas complainant had been a white woman, he would never have been confirmed. I remember thinking that in 1991, as well. 
+
+5: (0.715)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+> privileged white men are rarely held accountable for their actions
+
+I'm sorry, this misandry/racism, which is against rule #1. I can understand if you believe this to be true, but you can't just throw that out and expect it to be okay.
+
+6: (0.715)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+> To me the connection between this and that teenager having sexually assaulted someone at a party is kind of tenuous.
+
+Then imagine this is someone in your own life. You have a roommate whom you know to be a drunkard, and whom you know to become violent when he's drunk. Then, you have three different women coming forward, saying that he sexually assaulted them. I just don't know how you can *not* look at this and say that, yeah, something's seriously up with that.
+
+7: (0.704)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+No, sexual assault doesn't follow deductively from a drinking problem, but I'm not using deduction but abduction. The thing is that violent drunkards are more likely to sexually assault women than sober, nonviolent people. If you have a violent drunkard who's accused of sexual assault by three different women, these allegations are more likely to be true than if it's a sober, nonviolent person who's being accused. Being a violent drunkard reduces your credibility. This is the way detectives work. If you have a murdered person, who's more likely to be the suspect: his sober, calm friend, or his drunk, violent friend? Your assertion that a drinking problem means next to nothing if we're working from the assumption of innocence rather than guilt is simply false. It means a lot.
+
+And I'm not sure how many times I have to point this out, but here's an undeniable fact: if we were talking about a different crime than sexual assault, we wouldn't be debating whether Kavanaugh's guilty. If he were accused of being a violent drunkard by one person, and of beating up three men by three different men, and if we had his own admission that he had a drinking problem at that time, we wouldn't be debating whether he's guilty. But because this is about women being raped, suddenly, everything's different. You know this. I know this. Somehow, by default, we assign more credibility to men than to women. The second this is about a woman being sexually assaulted and not a man being assaulted, we begin to play these games and say that the woman has no idea what she's talking about. But if this were about Kavanaugh being accused by men, we wouldn't be debating whether he's guilty; we'd be debating whether this should be enough to disqualify him.
+
+8: (0.677)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Interesting. Was your roommate required to have their [skull measured](https://en.wikipedia.org/wiki/Phrenology) as well?
+
+9: (0.671)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Posts like this are just not very good for any discussion on this topic. 
+
+"Oh, right... because privileged white men are rarely held accountable for their actions. Especially actions involving abusing women." 
+
+What point are you trying to convey here?
+
+10: (0.671)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+That is stupid. Woman are not believed? All around the world, woman can just come ans point on any guy saying..he raped me, and that guy is done! Lately, in USA, they can just come and say"he touched my knee 35 yrs ago"
+
+11: (0.64)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+You really should say *white women are not held as accountable as any other group of men or women. 
+
+12: (0.64)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+It's not 'proving a negative' it's called 'a pattern of behaviour', there are many indicators that he follows that pattern. 
+
+13: (0.597)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Men on reddit are largely naive about sexual assault.
+
+14: (0.597)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I'm confused, are you talking about the 'white privileged men' part? 
+
+15: (0.597)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+People on r/news are already assuming she's lying and talking about how she was drinking and such...
+
+16: (0.597)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Hi, Cathy Newman. Bye, Cathy Newman. You're blocked.
+
+17: (0.597)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+The sad thing is they want this to be true. They'd rather these allegations be true instead of someone not being assaulted. 
+
+18: (0.591)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+'Rarely held accountable' I believe you are thinking of the cis white female. Who can rape a child or as the news calls it "Sex romp" and get like 2 years probation. You can't call white men privileged when they can be raped and their rapist not get prison time.
+
+19: (0.576)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Women: Cool, calm, collected? YER A ROBOT.
+
+Also women: Righteously angry, traumatized, hurt? YER HYSTERICAL/A LIAR/TOO OPPORTUNIST.
+
+20: (0.568)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Another tragic irony is that I have often been told that the disparate, lesser treatment I receive by society isn't because of how people see women, but because women don't act enough like men, which interferes with ambitions. I'm actually a trans man. 
+
+
+  ** Topic 13 ** :
+
+Top Tokens:
+1: questions	138.036
+2: hearing	119.036
+3: question	114.036
+4: kavanaugh	91.036
+5: answer	88.036
+6: lied	83.036
+7: anger	65.036
+8: asked	60.036
+9: job	48.036
+10: response	46.036
+11: judge	46.036
+12: oath	44.036
+13: clinton	44.036
+14: conspiracy	41.036
+15: scotus	41.036
+16: senator	38.036
+17: crying	36.036
+18: calm	36.036
+19: questioning	35.036
+20: senators	35.036
+
+Top Posts:
+1: (0.759)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+To be on the SCOTUS, you're supposed to be rational & refusing to answer questions, trying to lecture people, acting like going to a good college means he couldn't have done it, is crazy. He refused to answer about half the questions, even asked a Senator one of the questions that he refused to answer. I don't know any job that would be okay with it. And he showed he's completely partisan and conspiratorial with his little rant.
+
+2: (0.753)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Could you imagine how Republicans would have responded if she had displayed a single ounce of anger?
+
+3: (0.739)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+It isn't a binary response.  He could express his anger in a measured manner.  He could have expressed his empathy for Dr. Ford and still questioned her charges.  He could have NOT LIED. He could have asked for an investigation and claimed it is revenge by the Clintons. Seriously?  The Clintons again.
+
+4: (0.724)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Nobody who is supposed to be impartial should ever be caught talking about Clinton hit-jobs. 
+
+5: (0.709)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Have you been over to the Humor sub? They still haven't stopped ripping Kavanaugh apart.
+
+r/PoliticalHumor/comments/9jouzr/pulp_fiction/
+
+https://i.imgur.com/rmA5fNT.png
+
+r/PoliticalHumor/comments/9jsij1/dun_dun/
+
+6: (0.696)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+We're not discussing whether or not he has the right to be pissed off here. That remains to be seen. We're discussing Kavanaugh's inability to conduct himself with grace under the slightest bit of pressure.
+
+Seriously, how did Hillary stand up to decades of this, but Kavanaugh can't make it through a single week of scrutiny without proving he's bitch who can't handle the pressure of the national spotlight?
+
+7: (0.694)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+She showed honesty and grace, and she didn't even have to, but she *had to...* you know?
+
+Imagine how she would have been treated if she came in angry, sneering and yelling like Kavanaugh. If she treated the Mitchell and the Dems the way he did. If she said this was a right-wing conspiracy. 
+
+We all know how that would have played out for her. 
+
+8: (0.694)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+It is a simple fact that Kavanaugh repeatedly lied under oath during that hearing. He was actually called on two of those lies during the hearing, and persisted in at least one anyway. That is, as he repeatedly emphasized, a felony.
+
+That has nothing to do with politics.
+
+9: (0.687)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+There's being upset and then there's being belligerent, disrespectful and lying under oath. 
+
+10: (0.687)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> considers the whole mess a conspiracy against him by Dems and Leftists
+
+Because it is.
+
+11: (0.687)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Also consider how Kavanaugh was responding to questions the first 30 minutes.  It was a disaster.
+
+12: (0.687)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+The fact that he lied about not listening to her testimony says even more.
+
+https://www.wsj.com/livecoverage/kavanaugh/card/1538060501
+
+13: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Absolutely! With him saying "I don't know senator do you like beer?"... Can you imagine if she said anything rhetorical and kept repeating it as an answer to a question?
+
+14: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+"i'm in no way a Clinton conspiracy theorist" proceeds to give a Clinton conspiracy theory
+
+15: (0.673)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Clarence Thomas didn't lose "composure," but he did attack the Senate committee, basically called them liars and sleaze peddlers, and played the race card, calling the hearing a "high tech lynching."
+
+16: (0.657)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Sure. But I’d never in a million years turn it into the belligerent paranoid pity party that Kavanaugh did. It was absurd. I can’t even imagine thinking someone with that temperament could be an impartial judge. 
+
+17: (0.655)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Here's a question. Shouldn't his years as a lawyer and judge have taught him a modicum of self control? When Clarence Thomas was accused and had to defend himself, did he engage in histrionics?
+
+18: (0.655)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Go watch her testimony again! She faked the voice thing! She didn't sniffle or blow her nose once but was talking like she was on the verge of breaking down. It was totally contrived! 
+
+19: (0.647)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Hahaha, and Kav has been giving speeches for decades. He still cried like a coward.
+
+20: (0.645)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Anyone that’s not woefully naive, a partisan hack, or an outright moron could see from a mile away this is the behavior of someone guilty. Textbook example of using anger to deflect. The fact that more then 10% of America might be fooled by this kind of garbage does not bode well for our future as a nation.
+
+
+  ** Topic 14 ** :
+
+Top Tokens:
+1: drinking	85.036
+2: beer	85.036
+3: school	78.036
+4: drunk	62.036
+5: high	59.036
+6: yale	54.036
+7: kavanaugh	51.036
+8: triangle	39.036
+9: game	33.036
+10: alcohol	33.036
+11: alcoholic	30.036
+12: drink	30.036
+13: brett	29.036
+14: devil's	26.036
+15: dad	26.036
+16: lying	25.036
+17: likes	21.036
+18: lied	21.036
+19: lies	21.036
+20: drank	20.036
+
+Top Posts:
+1: (0.853)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Brett Kavanaugh said the "Devil's Triangle" was a drinking game and acted like his dad was dead the way he talked about how he keeps a calendar just like him.  
+
+Kavanaugh's father is alive. 
+
+2: (0.82)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+But then why did Kavanaugh lie about "The Devil's Triangle" or why did he act like his dad was dead when he talked about why he keeps a calendar?  
+
+His dad is alive. 
+
+
+3: (0.81)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+>Whatever your opinion on of Kavanaugh, a little intellectual honesty would be nice.
+
+How about being intellectually honest about Brett Kavanaugh's obvious lies about: 
+
+- "The Devil's Triangle" being a drinking game played w/ quarters
+- That he "busted his butt" to get into Yale b/c he didn't "know anyone" w/out mentioning that his grandpa was a Yale alum.  
+ 
+
+
+
+4: (0.806)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Brett Kavanaugh said he didn’t know anyone at Yale and that he busted his butt to get in. 
+
+He lied. His grandfather was a Yale alum. 
+
+5: (0.789)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+^ "Also: 'The Devil's Triangle' is a super-real drinking game played with quarters so Kavanaugh _can't_ be an alcoholic." 
+
+6: (0.789)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+The only nutcase was Kavanaugh who acted like his father was dead the way he wept about that calendar - his father is alive.
+
+7: (0.779)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+[sob] muh, muh, my dad's calendar... I know, it's _sounds_ like my dad is dead or something but he's very much alive... also: beer beer beer beer.... 
+
+8: (0.769)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+He still likes to drink. He literally said that. If he's a recovering alcoholic (and you're never not recovering if you've gone through that) he wouldn't be drinking anymore.
+
+9: (0.769)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+He was moaning and weeping about his calendar that his dad also kept - you'd think his dad was dead the way he was going on and on about it. 
+
+His dad is alive. 
+
+10: (0.758)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Most folks who watched his performance know what I'm referring to. 
+
+- "The Devil's Triangle" is a drinking game played w/ quarters. 
+- He "busted his butt" to get into Yale and "didn't know anyone" w/out mentioning that his Grandpa was an alum. 
+- "Boofing" is farting.  
+- In response to a question about whether he has ever been black-out drunk he said "he went to Yale." 
+
+11: (0.745)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Inside jokes on a high school yearbook are all you need to know about a man to know him. Sounds about right.
+
+12: (0.727)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+"Didn't know anyone at yale" grandpa alum
+"Devil's triangle is a drinking game" yeah ok.
+"Boofing is farting" even what damn near anyone from the seventies and eighties knows notwithstanding, it doesn't even work in the context of the sentence it was used in, "have you boofed yet?" Asking someone if they have ever farted yet? Are you kidding me? And these are just the weak little lies that shouldn't even mean anything. What else?
+
+13: (0.727)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Why does literally everyone think they busted their butt to get where they are, even if they had every privilege in the world?
+
+I get that you only have your own circumstance to define 'busted butt' by, so subjectivity is often lost, but at some point you'd think having wealthy family getting you in places may not be exactly butt busting.
+
+We need a formalized butt busting scale.
+
+14: (0.722)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Oh so you must have drank in high school too playing Devils Triangle.....have you ever heard of the game Devil Triangle? Because I'd love your explanation
+
+And why would you say BOUF in high school? What does that have to do with scooby doo??
+
+15: (0.72)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+His best friend wrote two books about how addicted to alcohol the friend became while at the same school? And got blackout drunk?  Or how their gay priests ran a messed up school?  “No evidence” just got a bit hazier as his friend admits to excessive alcohol consumption. 
+https://www.motherjones.com/politics/2018/09/brett-kavanaugh-mark-judge-high-school-drunk-allegation-alcohol/
+
+16: (0.715)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+And he likes beer! Did you know he likes beer? And sports. Beer too!
+
+17: (0.715)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+I had not heard Boofing or Devils triangle since high school ;).
+
+18: (0.71)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Of course he doesn't think rectal feeding is a bad thing. That's how he used to get his drunk on in highschool...
+
+Source: 
+
+["Have you boofed yet?"](https://www.google.se/search?q=Kavanaugh+yearbook+quote&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiYhee5g-DdAhVBniwKHX8ADx0Q_AUIDigB&biw=1625&bih=869#imgrc=Z9eYipS0FVt_sM:) - Brett Kavanaugh's yearbook page
+
+
+[Boof ](https://www.urbandictionary.com/define.php?term=Boof)according to Urban Dictionary
+
+
+
+19: (0.709)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Also: Kavanaugh's appearance on Fox News? His reference to a far-reaching Clinton/Democrat conspiracy that didn't touch Gorsuch at all but was *very mean* to him?
+
+Red flags abound with this jackass.  Not only his unhinged behavior during the questioning (Have you ever been black-out drunk? "I went to Yale..."), but his overt political hackery. 
+
+20: (0.702)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+That he didn't blackout, that boofing and devils triangle were innocent games, that Renate alumnius had nothing sex to it.
+
+
+  ** Topic 15 ** :
+
+Top Tokens:
+1: money	23.036
+2: reddit	21.036
+3: white	13.036
+4: race	10.036
+5: gender	9.036
+6: work	9.036
+7: give	9.036
+8: response	8.036
+9: speech	8.036
+10: bloated	8.036
+11: uncle	7.036
+12: nuclear	7.036
+13: serena	7.036
+14: actively	7.036
+15: recent	7.036
+16: carcass	7.036
+17: silencing	6.036
+18: spending	6.036
+19: policy	6.036
+20: subs	6.036
+
+Top Posts:
+1: (0.79)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+It's already happened before: [https://www.daytondailynews.com/news/state--regional-govt--politics/polygraph-test-for-local-statehouse-candidate-cancelled/PLiKbuMEVGv552lCSJ9BTJ/](https://www.daytondailynews.com/news/state--regional-govt--politics/polygraph-test-for-local-statehouse-candidate-cancelled/PLiKbuMEVGv552lCSJ9BTJ/)
+
+&#x200B;
+
+Also, polygraphs aren't really meaningful, just a waste of money: [http://www.sandiegouniontribune.com/news/immigration/sd-me-cbp-polygrpah-20170814-story.html](http://www.sandiegouniontribune.com/news/immigration/sd-me-cbp-polygrpah-20170814-story.html)
+
+2: (0.741)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+https://www.theguardian.com/news/2018/sep/27/this-guy-doesnt-know-anything-the-inside-story-of-trumps-shambolic-transition-team
+
+It is an excerpt from a new book by Michael Lewis.
+
+3: (0.738)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Agreed with you in spirit, Kavanough is an entitled piece of turd, and getting away with it solely by virtue of being a white man.
+
+But let’s not defend Serena. She violated the code several times over, then tried to hide behind race and gender cards. Such acts do a disservice to the movement and give feminism a bad name.
+
+4: (0.738)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The subs weren't even banned though, all you get is a warning about their contents! These are communities who regularly demonstrate their "humour" to be blatant racism, sexism, or some form of calling for the deaths of others with no punchline to go with it, and they're not even being censored for it! 
+
+Again, driving stuff "underground" doesn't work the way you think it does. Look at the relationship between Reddit and Voat, and what happened with 4chan and /pol/. The parts of Reddit that did get censored are now there, festering in a pool of completely unabashed white supremacy and neonaziism, but it's tiny and doesn't have a fraction of the reach Reddit has. /pol/ started out as a containment board for political "discussion" on 4chan and ended up becoming the largest board on the site, massively influencing the hateful, reactionary, and edgily inflammatory politics that is now constantly present on almost every board. There's actually a study about this that I'll reply to you with when I find it, but right now I'll just say that containment and just-leaving-them-alone doesn't work like you seem to think it does, and actively fosters indoctrination and radicalisation of the people on the platform they share. 
+
+Keep in mind, these are not just subs which complain about taxes, or economic policy, or immigration policy, they're actively engaged in ("""ironically""") promoting violence against religious and ethnic groups. The line seems to be "no encouraging or glorifying violence or dehumanisation, especially against demographic groups", which is why /r/fullcommunism got slapped with a quarantine as well. If simply quarantining them is "the pendulum swinging too far the other way" to you, then I doubt we can ever agree.
+
+5: (0.699)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+We've already reached max escalation of the hype here. Save the ethnic comparisons for when we run out of ammo.
+
+6: (0.699)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> A bloated white carcass starts scream-crying during his job interview
+
+Oh, that is beauty! This is why I come to Reddit!
+
+7: (0.697)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Silence the entire human race??? A bunch of subs spreading both "ironic" and unironic white supremacism got a warning sign telling you that there are edgelords inside before you enter! Even if they did get banned, calling that "silencing the entire human race" is a massive bloody overstatement.
+
+Like it or not, shunning people who call for genocide or reinstatement of apartheid *works*. Given how many supremacist movements work using slimy and manipulative tactics, actively stopping them from indoctrinating others is absolutely morally and ethically justifiable. Calls for violence, genocide, or attempts at dehumanisation of ethic, racial, or religious groups need to be combatted. Divisions aren't overcome by saying that the KKK are just fellow citizens and need to be heard out and respected, because they will not only radicalise the group they consider their own base, they'll send their victims towards radicals as well. Identity exists, and always will exist. People will identify with their race, their gender, their sexual orientation, their favourite brands, and their preferred pizza toppings, what needs to be prevented is supremacism and the sort of relentlessly mean spirited "ironic" edgy behaviour that the KKK themselves espouse as a great tool for indoctrination and normalisation of their views.
+
+
+
+8: (0.672)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Yes, by Michael Lewis. https://www.theguardian.com/news/2018/sep/27/this-guy-doesnt-know-anything-the-inside-story-of-trumps-shambolic-transition-team
+
+9: (0.656)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> But let’s not defend Serena. She violated the code several times over, then tried to hide behind race and gender cards. Such acts do a disservice to the movement and give feminism a bad name.
+
+You're not wrong. However...
+
+[John McEnroe defends Serena Williams: 'I have said far worse'](https://www.tennisworldusa.org/tennis/news/Serena_Williams/60311/john-mcenroe-defends-serena-williams-i-have-said-far-worse-/)
+
+10: (0.648)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Oh bite me. Now you’re on to drug abuse and Hitler comparisons? Why not Charles Manson and Jeffrey Dahmer too? Jack the Ripper maybe? Smh 
+
+
+
+
+
+11: (0.621)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Shoulda coulda woulda stfu
+
+12: (0.621)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+https://www.reddit.com/r/politics/comments/9k5arb/comment/e6womgl?st=JMP37BP8&sh=2738d19d
+
+13: (0.621)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+https://www.reddit.com/r/politics/comments/9k5arb/comment/e6womgl?st=JMP37BP8&sh=2738d19d
+
+14: (0.621)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+https://www.reddit.com/r/politics/comments/9k5arb/comment/e6womgl?st=JMP37BP8&sh=2738d19d
+
+15: (0.597)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+On Monday it will be released that she had ECT, electroconvulsive therapy. 
+
+&#x200B;
+
+If you look at a high resolution image of her, you can see the scars between her eyebrows and above the eyebrows where the electrodes scarred her skin. Instead of the more temporal placement of the electrodes, in her case they were place above her eyebrows.
+
+16: (0.586)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+"Well, ya see, May 14th, 1982 was a Monday, so it wasn't a lift day, you understand. So I didn't write 'lift' in the ol' calendarooski, heh heh. Now, 'round about this time it was as Beach Week, so's I wrote 'BEACH WEEK'--just like that--in allll cap-ee-tals, makin' sure to trace it over 'n over like I was a-writin' it in m' Big Chief tablet. Only I wasn't. I was a-writin in m' good ol' calendar, just like m' pappy used t' do. Anyways..."
+
+17: (0.576)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Obviously you ignore the right extremists. 
+
+They're always going to exist unfortunately. Going to take a few generations to weed out.
+
+Doesn't justify silencing the entire human race in the process. That's an OVERREACTION. 
+
+And if you want to go down the route of hate speech inciting violence, which I'd agree with, this is the downfall of global connectivity and clashing of cultures. Our toughest battle is to come together over the coming years, diffuse as many wars as possible, and love each other. 
+
+Sounds cheesy but I feel it's our best bet. Don't drive more separation through group identity and compelled speech.
+
+18: (0.563)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+May I Quote " A bloated white carcass starts scream-crying during his job interview "  That sentance?
+
+TIA
+
+Its Gold
+
+&#x200B;
+
+19: (0.554)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Only "the gays" got AIDS in the 80s. You forget that Reagan's administration suppressed information about the epidemic because by and large, it wasn't really affecting anyone but the homosexual community. 
+
+20: (0.552)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+https://www.youtube.com/watch?v=ljaP2etvDc4
+
+
+  ** Topic 16 ** :
+
+Top Tokens:
+1: guilty	418.036
+2: innocent	288.036
+3: job	229.036
+4: proven	218.036
+5: evidence	201.036
+6: trial	179.036
+7: proof	146.036
+8: interview	127.036
+9: prove	126.036
+10: innocence	113.036
+11: criminal	109.036
+12: accuser	101.036
+13: court	92.036
+14: accused	87.036
+15: guilt	84.036
+16: burden	84.036
+17: doubt	83.036
+18: law	75.036
+19: system	75.036
+20: reasonable	74.036
+
+Top Posts:
+1: (0.862)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Even IF polygraphs were reliable, in America defendants are innocent until proven guilty beyond a reasonable doubt in a court of law, one of our most important civil liberties. Thus the burden of proof always rests on the plaintiff, not the defendant. Unless she can prove his guilt, he has no need to prove his innocence. If there are no other witnesses or material evidence, then there is more than a reasonable doubt about her claim.
+
+2: (0.848)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+One brief note on legal procedure: 
+
+>Innocent until proven guilty means that an accuser has to “prove” beyond a reasonable doubt that a crime has occurred.
+
+This isn't really accurate the way you frame it. In a criminal trial, the *government* has to prove beyond a reasonable doubt that the defendant is guilty in order to secure a conviction. 
+
+But in a civil lawsuit, the accuser (the plaintiff) only has to prove that it's "more likely than not" that a harm has occurred (a "preponderance of the evidence"). 
+
+This is why O.J. Simpson was acquitted (found not guilty) in his criminal trial but found liable in his civil trial for wrongful death. The state couldn't prove its case beyond a reasonable doubt but the victims' families proved their case by a preponderance of the evidence.
+
+3: (0.813)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I believe her but The burden of proof is on the plaintiff, not the defendant. In our court system, it is the duty of the plaintiff to prove that the accused did it, not the other way around. 
+
+4: (0.798)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because it isnt his duty to prove his innocence, it's the prosecutors duty to prove, beyond a shadow of a doubt, that he's guilty. Just because the allegation is rape doesnt change how our courts function and in this country until you are proven or plead guilty you are presumed innocent in the eyes of the court. 
+
+5: (0.798)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Have you noticed that this isn't a criminal proceeding under which one must rule beyond a reasonable doubt?
+
+Have you similarly noticed that this isn't even a civil proceeding under which "a preponderance of the evidence" guides the ruling?
+
+This is a job interview. Kavanaugh is not under criminal proceedings.
+
+6: (0.798)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+FFS.. I'm so tired of saying the same things to you people. 
+
+**This is not a criminal trial.**
+**No one is trying to send anyone to jail.**
+**Innocent til proven guilty is in a court, not a conformation hearing.**
+
+7: (0.798)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+I think the word guilty can be used in other contexts besides the legal context. Can people be guilty of moral shortcomings without being proven guilty in a court of law? Yeah 
+
+8: (0.797)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Simply put, it is on the accuser of a crime to provide the evidence. You should not ask the defendant to prove their innocence.
+
+9: (0.797)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+So if I accuse you of embezzlement in your job, but there is no evidence that you did besides my word, you should still be denied a promotion on the grounds that you could have embezzled?
+
+10: (0.782)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+>You can't just come up with some hypothetical that holds none of the same situations and act like you won something.
+
+Other than the fact that I'm making a PRINCIPLED argument and the hypothetical is falling consistently within those principles.
+
+>Someone accuses you of something in a workplace you aren't just summarily fired.
+
+Guilty until proven innocent (the principle you are arguing for) would demand just that. I wonder why they don't do that??
+
+>They, what do you call it, **investigate** to see if it's legit. It also would fall into said companies HR rules. 
+
+It's almost like the principle of "innocent until proven guilty" exists in civilized societies outside of "trials"
+
+>Conflating your view of innocent until proven guilty and a confirmation hearing don't make them true either. 
+
+No, the fact that the concept is generally held in courts, confirmation hearings, and HR departments makes them true.
+
+>The hearing is not about his guilt or innocence. As much as you keep thinking it is. It's not.
+
+The demand that he should "prove his innocence" and the accusations appear to be enough from the left to keep him off the court is isxactly what its about.
+
+
+
+11: (0.777)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because the burden of proof is always on the accuser. That's how the law works. Innocent until proven guilty and all that.
+
+12: (0.771)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I agree with you completely.  I hope that if your post was inspired by me saying that "he wasn't found guilty just like he wasn't found innocent" is just a  misunderstanding. 
+
+The person I  responded to stated that Kavanaugh wasn't found guilty as evidence for his innocence. I pointed out that he wasn't found guilty or innocent because no investigation has taken place. 
+
+The distinction being that although we should presume someone innocent until proven guilty,  we can't disqualify the possibility of guilt without due process. 
+
+13: (0.754)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+This isn't a trial, it's a job interview.  "Innocent until proven guilty" doesn't apply.
+
+14: (0.754)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because the accused is presumed innocent under the legal system until proven guilty
+
+15: (0.753)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Regardless of the fact that it isn't directly a criminal trial, he shouldn't have to be punished until it is proven without a shadow of a doubt that he is in fact guilty of these assaults. 
+
+16: (0.753)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because it's innocent until proven guilty, not guilty until proven innocent. In the world of law, the burden of proof is on the prosecution. 
+
+17: (0.739)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Leaving aside the reliability of polygraph he should not have to undertake any procedure just to prove himself innocent. That is not how things work . And people who keep suggesting he does should ask themselves whether they really want to live in a society governed by a guilty until proven innocent principle. 
+
+18: (0.737)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+>This isn't the justice system, it's a job application. There is no presumption of innocence. 
+
+Presumption of innocence is the hallmark of a civilized society. What you're saying is you're okay with mob justice and lynchings. 
+
+19: (0.733)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Because acussing someone of being guilty should be proven. The presumption of innocence is the principle that one is considered innocent unless proven guilty.
+
+20: (0.73)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Unless there is any evidence to the fact (which so far, there isn't) then yes... It's worthless. We have a very high standard for criminal convictions for a reason: beyond a reasonable doubt. Unless you can meet that standard, the person accused is presumed innocent of the crime.
+
+Really consider just how much evidence you need for something to be beyond a reasonable doubt. And then consider the evidence we have for it (so far).
+
+
+  ** Topic 17 ** :
+
+Top Tokens:
+1: accused	225.036
+2: life	216.036
+3: rape	185.036
+4: man	118.036
+5: innocent	92.036
+6: angry	85.036
+7: accusations	75.036
+8: falsely	75.036
+9: rapist	68.036
+10: ruined	66.036
+11: threats	59.036
+12: death	59.036
+13: gang	55.036
+14: imagine	53.036
+15: career	50.036
+16: ruin	50.036
+17: false	49.036
+18: person	46.036
+19: upset	45.036
+20: reputation	45.036
+
+Top Posts:
+1: (0.812)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Imagine being accused of something you didn't do, something horrific. Whether or not you believe Ford, its foolish to assume that this isn't appropriate behavior for a man who was accused of rape. 
+
+2: (0.776)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Maybe he's gettin' angry because his career is being destroyed on baseless accusations, just sayin' #WalkAway
+
+3: (0.752)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Facilitating a gang rape is worse.  He deserves the mantle of rapist.
+
+4: (0.751)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+He's being accused of not only attempted rape by her, but having multiple gang rape train drug parties. I'm not saying he's innocent because I don't know if he is, but if I was accused of that I would be pissed. His anger could absolutely be justified.
+
+5: (0.736)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Well when you're a lying fraud trying to ruin a man's life and career just to win a politcal maneuver, you don't get to be angry when everybody sees right through it and denys you your pussy pass.
+
+6: (0.736)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+well that...and the death threats he and his family are also receiving plus the absolute trashing of his reputation and end of his reputation and career,  whilst she gets go walk right back into hers 
+
+7: (0.732)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Dunno, the banal forms of evil are probably responsible for more massive crimes than the visceral forms of evil.  
+
+8: (0.732)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Of course he’s angry, they accused him of organizing gang rape with no evidence.
+I’d like to see how everyone else would react if accused of the same thing
+
+9: (0.711)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+This is stupid.  Let us for a moment allow ourselves to imagine that the man is actually innocent.  How would you respond to the charge of gang rape if you were innocent of it?  With quiet acquiescence?  
+
+
+(If you see political calculation on the other side but not yours, you're a rube).
+
+10: (0.687)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I think it would definitely make him less of an asshole.
+
+&#x200B;
+
+I could absolutely understand being incredibly frustrated about accusations you know aren't true but millions of people don't believe you, and that is causing your family crazy amounts of stress; it really is an absolutely terrible feeling to be accused of something you didn't do and no one believes you
+
+11: (0.677)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+So a man isn’t allowed to be upset and pissed when someone brings up random unsupported claims to ruin his life?
+
+12: (0.675)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+This reflects my thoughts exactly. Memories lie to us. Both of them could believe they are telling the absolute truth-especially if one or both were drunk. But the way a person REACTS in a situation tells you more about them than the way they ACT. And he did not react well. 
+
+13: (0.654)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Assuming it's not true, he's handling it really inappropriately. 1/5 would not make Judge. If you're going to be on the SCOTUS, you have to be able to take baseless accusations better than this.
+
+Then again, if you're a spoiled man-child who's never been held accountable regardless of the amount of horrid shit you've done, this is pretty much on-par behavior. I mean, sure, there's an off-chance Kavanaugh is a decent human being, but the Duck Test says otherwise. 
+
+You know, if only we had the possibility of having the authorities look into these claims. I'm sure professional investigators could solve this riddle *before we hand over a life-time appointment to the highest judicial body* to someone.
+
+14: (0.649)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I agree he shouldn't be confirmed, but we have to remember to keep our facts straight so we don't lose credibility. No one has accused him of rape. Blasey Ford accused him of sexual assault, Rodriguez accused him of exposing his penis to her, and Swetnick accused him of facilitating gang rape. These are all reprehensible and he should be in jail, but still, he hasn't been accused of rape.
+
+15: (0.638)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Only the person who was raped should have their life ruined.
+
+16: (0.638)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Hormones are not an excuse for attempted rape.
+
+17: (0.637)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Liberals don't think being falsely accused of gang rape out of political reasons is a big deal.  I was angry and I'm not even him.  
+
+Unlike Ford, he behaved like a normal person.
+
+
+18: (0.629)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Hmmmm... and that behavior just means he’s upset. Funny in almost any other social situation being needlessly defensive, whining, and trying to reallocate blame while dismissing as many claims as being trivial would be highly indicative of lascivious actions.  
+
+19: (0.621)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Men have had lives ruined from false allegations. If he is innocent then I don’t blame him for being upset.
+
+20: (0.615)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+How is it ruining his life? If he committed a heinous act, exposing it isn’t ruining his life. *He already did that*! We just didn’t know about it.
+
+The only one responsible for the fallout of his actions is him. 
+
+
+  ** Topic 18 ** :
+
+Top Tokens:
+1: investigation	537.036
+2: fbi	440.036
+3: investigate	114.036
+4: kavanaugh	98.036
+5: confirmation	68.036
+6: process	65.036
+7: truth	61.036
+8: democrats	61.036
+9: committee	60.036
+10: senate	59.036
+11: republicans	58.036
+12: hearing	54.036
+13: investigated	54.036
+14: allegations	50.036
+15: asked	49.036
+16: ford	48.036
+17: gop	46.036
+18: police	45.036
+19: information	44.036
+20: find	41.036
+
+Top Posts:
+1: (0.891)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+No, the request for an FBI investigation was and is requested because they do federal background checks, for federal offices.
+
+No Democrat senator was asking for the FBI to do a criminal investigation.  They were asking that the background check be re-opened since new information has come to light...
+
+Edit: we to new.
+
+2: (0.851)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+It’s not the Senate’s job to perform a full investigation of the crime. Nor is it the FBI’s. It is the responsibility of the state or local authorities in Maryland after a complaint was filed. But since a complaint was never filed...yes, this was all political theater by all sides.
+
+3: (0.795)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The deadline for him to be confirmed is soon, and an investigation is going to obviously last longer than that, allowing for the Democrats to gain an advantage from the Midterms.
+
+4: (0.776)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Both sides?  One of those sides has repeatedly asked for a legitimate investigation and the other has tried to sweep this under the rug. 
+
+5: (0.776)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Theres a difference between removed and investigated. Even if they just take the house he will be heavily investigated by the oversight committee.
+
+6: (0.776)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Well ideally Congress would investigate these allegations, but the Republicans will vote to approve him no matter what.  
+
+7: (0.769)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+> One of those sides has repeatedly asked for a legitimate investigation and the other has tried to sweep this under the rug.
+
+They weren't asking for an investigation when they got the information about the rape, they didn't ask for an investigation when they talked with Kavanaugh other times. They had more than ample enough time for an investigation. They're only asking for an investigation *now.* The Republicans are (rightfully) saying this is political opportunism to extend the nomination proceedings. 
+
+8: (0.752)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+That makes sense.  I dealt exclusively with criminal investigations, and not background checks.
+
+Either way, an investigation was sorely needed here
+
+9: (0.75)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+The Democrats didn't call for the hearing. Republicans did. 
+
+Ford came forward prior to Kavanaugh's nomination when she heard he was on the list to her congresswoman. Ford wanted her name to be private, so Democrats sent her story to the FBI to be investigated. Republicans said an FBI investigation was not needed and we ended up with the bullshit hearing on Thursday where they refused to talk to her.
+
+Now, because they don't have enough votes to approve him, they are allowing an FBI investigation... But it must be *one week or less*.
+
+So that's why. There's no statute of limitations on rape in Maryland but they're trying to deny her a real investigation and trial. Idk why that's allowed. 
+
+10: (0.739)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+I can't emphasize this enough. 
+
+Senate: "should the FBI investigate this."
+Kav: "hermmn umm"
+
+
+Senate: "the president claims he has you're statements on tape"
+Comey: "lordy I hope there are tapes"
+
+I know which person I'm more inclined to put my faith in
+
+11: (0.732)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+That's why there should have been an investigation rather than trying to hamfist his confirmation. The Republicans are the ones to blame. They gave an ultimatum to have her testify right away. They were banking on her being unprepared.
+
+12: (0.725)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+That's because the FBI was allowed to quietly probe that matter in the background. It took media theatrics to draw attention to the issue to put pressure on Republicans to request the FBI investigation.
+
+13: (0.723)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Exactly. By limiting what the FBI can investigate and by saying previously there was no way the FBI could or should do this, we can all see what the GOP is trying to do
+
+14: (0.716)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+That is not at all what I am saying.  Please, do not impose any assumptions on my statements.  There should absolutely be further investigation.  All allegations should be examined.  Sexual assault is no joke.  Neither is false accusation of such crimes.
+
+I find, in this situation, the accusers are not credible specifically because of the FBI scrutiny he has already undergone and the lack of corroboration to any of the claims by any of the purported witnesses.
+
+Additionally, the accusations are not within federal jurisdiction, they are state crimes.  They should be investigated by the Maryland State Bureau of Investigation.  The FBI has already failed if the accusations are true...six times.
+
+15: (0.712)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+They have to ability themselves to request that investigation.
+
+They failed to participate in the investigation that committee itself did.
+
+This is a case that isn't or wouldn't be under the FBI perview it would be a local police investigation.
+
+If they were after the truth then why not bring the allagations up months ago when the received the letter and open a proper investigation then...
+
+Oh that's right because they wanted to wait long enough to hopefully derail the vote.
+
+
+
+16: (0.708)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+Was neither side pushing for an FBI investigation? Could they push for it, despite no charges being pressed and the statute of limitations? 
+
+17: (0.693)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+They didn't want an investigation because the Senate judiciary committee has investigatorial powers. There are no leads to follow besides talking to the witnesses she has named, all of whom have already given sworn statements under threat of perjury that this didn't happen. The fbi invetigation is an attempt to slow down the nominee process, not reveal any new information as she has provided no leads for new information to be discovered.
+
+18: (0.686)
+Subreddit id = t5_2r2jt
+Submission id = t3_9ji4ug
+
+The Anita Hill FBI investigation took 3 days. 
+
+19: (0.686)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Federal agencies still use it for new hires. I know because of the FBI and the NSA....
+
+20: (0.686)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+I think it's her willingness to take it and have the FBI investigate that makes me think she is credible.
+
+
+  ** Topic 19 ** :
+
+Top Tokens:
+1: evidence	513.036
+2: people	149.036
+3: testimony	141.036
+4: credible	133.036
+5: case	106.036
+6: ford	94.036
+7: kavanaugh	87.036
+8: fact	87.036
+9: reason	82.036
+10: public	80.036
+11: claim	77.036
+12: opinion	77.036
+13: crime	74.036
+14: witness	73.036
+15: accusation	72.036
+16: story	68.036
+17: facts	68.036
+18: person	65.036
+19: allegations	64.036
+20: wrong	63.036
+
+Top Posts:
+1: (0.86)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+If you're talking about the testimony of the accused, then yes that is evidence too. What's your point though? I'm not equating them or saying one is more valuable than the other. I was simply pointing out that testimony is evidence, which the poster above had implied was not the case. 
+
+2: (0.84)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Don't take that 70% the wrong way, I suspect you misread the statement. He's not saying that 70% of cases convicted on grounds of eye witness testimonies were overturned, but rather that when DNA testing became a thing, 70% of cases *that were overturned* could at least in part be attributed to faulty eye witness testimony. 
+
+In other words, eye witness testimony corroborates correctly in the vast majority of cases, but in old cases that had gotten it wrong, faulty testimony was a common denominator.
+
+3: (0.809)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Why are we talking about speculation. Base your decisions on actual cold stone facts.
+
+Can you tell me what evidence there actually is that would stick on a actual court of law? If not, then how is it a credible claim? If it was credible t would stand on any court of law. If no such claim can be made that would pass a court of law, why are we destroying a man’s career over accusations? This is not how the world should work. 
+
+I stand by innocent until proven guilty because my family has been on the other end of these empty accusations. And they keep on even after your name has been cleared by courts. It wasn’t about sexual assault, it was about robbing the gov’t in Mexico. And yet just because of empty words, my family is known to a lot of people as thieves. Our address was publicized, and people still come around sometimes and leave nasty letters.
+
+So you do confirm on being okay with people having their careers destroyed based on accusations with no evidence. That’s interesting.
+
+
+
+4: (0.799)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+So in other words, rape basically isn't a crime because it's impossible to provide irrefutable evidence of it in nearly all circumstances.
+
+5: (0.788)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+> Why are we talking about speculation. Base your decisions on actual cold stone facts.
+
+I am, mate. It's a cold stone fact that people don't just lie under oath for no reason, backed up by evidence. It's a cold stone fact that there's no plausible motive for her to lie. You need to stop confusing your opinion with fact. You don't like the evidence which says it's unlikely she's lying, so you try to act like it doesn't exist.
+
+>Can you tell me what evidence there actually is that would stick on a actual court of law? If not, then how is it a credible claim? If it was credible t would stand on any court of law.
+
+That's not how court of laws work, mate. Court of laws determine whether there's enough evidence to prosecute someone under the law. They do not determine truth, or "credibility", or anything of the sort. This isn't a trial, this is a hearing to determine whether his character is clean. And you need to stop pretending that you won't accept any evidence that wouldn't convict him of rape in a court of law.
+
+>I stand by innocent until proven guilty because my family has been on the other end of these empty accusations. And they keep on even after your name has been cleared by courts. It wasn’t about sexual assault, it was about robbing the gov’t in Mexico. And yet just because of empty words, my family is known to a lot of people as thieves. Our address was publicized, and people still come around sometimes and leave nasty letters.
+
+I'm sorry that's happened to you, but you do understand that you're revealing your personal bias? A bad thing happened to you, so you assume that all people who make accusations are liars.
+
+For someone who says they base their opinions on "cold stone facts", that's not very rational.
+
+6: (0.782)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+Has she made any monetary gains from this ordeal? That’s a motive. How about just getting more attention? People lie all the time to get attention, that’s another. 
+
+But all of this is just speculation. I like to make my decisions and opinions based on facts. And the favts are that there is no evidence for these accusations. 
+
+Can you confirm that what you’re saying is that you’re okay with destroying a man’s career over accusations with no evidence to support those claims?
+
+7: (0.745)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+You missed what they were saying.
+
+Witness testimony or the accusers testimony on its own is usually worthless without any corroborating evidence. 
+
+Ie if you accuse someone of a crime, that accusation means jack unless you can also prove they were in the area, you have physical evidence of the crime in relation to the accused, etc.
+
+Its not a issue of strength unless multiple people witnessed the crime, but even then if someone has a alibi with multiple other witnesses it's still useless. 
+
+So basically, yes, witness testimony is general useless in the absence of other evidence.
+
+8: (0.739)
+Subreddit id = t5_2r2jt
+Submission id = t3_9jwbmj
+
+I know that it's happened in the past and while I'm not disputing Dr. Ford there's no evidence to corroborate her story.  And while I sympathize with her, it's a dangerous precedent to take people at their word and only their word in court.
+
+9: (0.728)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+They're used to sway public opinion, since a lot of people still think they are accurate.
+
+10: (0.728)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+It's only right to know the claim being made is factual and the 5th amendment means he doesn't have to do anything That would incriminate himself.
+
+11: (0.714)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+No youre the victim, not a witness lol. You're abusing semantics here. The victim *claims* to have witnessed the crime. That unto itself can't be evidence, as the simply accusing someone of a crime isn't evidence of said crime. Witness statements are collected from people who *weren't* the accuser nor the accused, stating that they witnessed/observed the crime take place. This, if those witnesses are proven to have no ulterior motive, can be used as evidence. Obviously a victim of a crime witnessed that crime, but that's not the same as being a viable witness.
+
+12: (0.712)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+Does a lawyer who knows his client has committed a crime - does he have an obligation to lie in order to defend his client? 
+
+13: (0.705)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+I absolutely didn’t miss any of that, I was pointing out the complete absurdity of saying that witness testimony “isn’t evidence.”
+
+Because, again, it is. And also, a huge amount of the time, crimes don’t have any evidence other than one person’s word against another person’s. If Person A punches Person B, and there’s no security camera around to record it, the police aren’t going to refuse to arrest Person A if Person B goes to the police and says that he’s been punched by Person A. And then, considering that the vast majority of cases end in plea deals (roughly 95%), that’s usually the end of case.
+
+
+
+14: (0.7)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+>I absolutely didn’t miss any of that, I was pointing out the complete absurdity of saying that witness testimony “isn’t evidence.”
+
+If testimony can't be corroborated it is usually thrown out. Ie it ceases to be evidence. 
+
+>Because, again, it is. And also, a huge amount of the time, crimes don’t have any evidence other than one person’s word against another person’s. If Person A punches Person B, and there’s no security camera around to record it, the police aren’t going to refuse to arrest Person A if Person B goes to the police and says that he’s been punched by Person A. And then, considering that the vast majority of cases end in plea deals (roughly 95%), that’s usually the end of case.
+
+The case you are describing would use physical evidence such as a wound or other physical sign of the attack as evidence to corroberate the testimony along with the alleged motive, physical location of the accused during the attack, etc. 
+
+You believe your scenario, with ONLY unsubstantiated claims by a single individual would end in a plea? In what century? Even the lowest tier public defender could question that out of court.
+
+15: (0.698)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Mate you should get your definitions right. Because she is a first hand witness, it is neither speculation nor hearsay. Hearsay is something that is not within the personal knowledge of the subject, as in it would be hearsay if it was her husband testifying to it on her behalf. But because it is her personal, direct experience, it is evidence. Testimony is evidence of a crime, and can be used to garner convictions without forensic evidence. 
+
+16: (0.692)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+LMFAO, you posted zero evidence. Why do you support a rapist?
+
+17: (0.692)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+This is the "prove unicorns don't exist" fallacy.
+
+Prove that you aren't a rapist.
+
+18: (0.685)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+They would be admissible as evidence against her if she were accused of a crime. Otherwise, her testimony to anyone other than an officer the law is hearsay.
+
+19: (0.685)
+Subreddit id = t5_2r2jt
+Submission id = t3_9gd331
+
+Agreed although I think the word "convincing" might be better, "credible" is too strong a word at this point IMO
+
+20: (0.685)
+Subreddit id = t5_2r2jt
+Submission id = t3_9j5eb5
+
+So when an alleged rape victim gets something wrong in their testimony, does it mean they made it all up? Or is it just that they don't actually have superhuman memory?
+
+
+  ** Topic 20 ** :
+
+Top Tokens:
+1: hysterical	103.036
+2: kavanaugh	87.036
+3: man	87.036
+4: called	83.036
+5: white	76.036
+6: women	74.036
+7: black	56.036
+8: woman	53.036
+9: emotional	53.036
+10: men	51.036
+11: male	45.036
+12: act	42.036
+13: angry	39.036
+14: standard	34.036
+15: double	33.036
+16: emotion	31.036
+17: ford	30.036
+18: males	29.036
+19: acted	27.036
+20: child	24.036
+
+Top Posts:
+1: (0.871)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> Women: hysterical
+
+> Black Men: overly aggressive 
+
+> Black Women: uppity, loud
+
+> White males: great testimony with passion
+
+edit: adjective
+
+2: (0.841)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+It's not a compliment at all, it's an implied phrase "Obama is articulate for a black man".  The racist speaker just says "Obama is articulate" and the racist listener hears "Obama is a black man".  It has no bearing on his speech it's just an appeal to racist feelings.  This is dogwhistling, and should be called out and shamed.
+
+3: (0.835)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> Women: hysterical
+> 
+> Blacks: ~~overly aggressive~~ ~~uppity~~ angry 
+> 
+> White males: great testimony with passion
+
+
+4: (0.834)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Dominant males would describe Kavanaugh's erratic behavior as a sign of strenght and confidence. If the same behavior were to be exhibited by Dr. Christine Blasey Ford she would be deemed hysterical and a drama queen, even crazy.
+
+Even the privilege to act like an asshole on national TV is gendered. 
+
+5: (0.823)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> Women: hysterical
+> 
+> Blacks: ~~overly aggressive~~ uppity
+> 
+> White males: great testimony with passion
+
+
+
+6: (0.796)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> Dominant males would describe Kavanaugh's erratic behavior as a sign of strength and confidence.
+
+Nah, sorry. Dominant males are uncomfortable with and dismissive of emotional displays and vulnerability. They would most definitely eviscerate him for this behavior if he was a Democrat.
+
+7: (0.781)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Testerical is the male analog: Overly aggressive, irritable, or unreasonable, as from being overwhelmed by testosterone.
+
+In other words, Kavanaugh's behavior during his testimony.
+
+https://en.m.wiktionary.org/wiki/testerical
+
+8: (0.775)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Again it is a double standard.  Hysterical man - strong and defending his honor.  Hysterical women - weak and probably trying get sympathy fro something she did to herself.
+
+That is a double standard and it just sucks to be called on it.
+
+9: (0.773)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+Women: hysterical
+
+Blacks: overly aggressive
+
+White males: great testimony with passion 
+
+10: (0.749)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+No man or woman should ever act like that if they are to hold office. He was called hysterical to juxtapose the reaction towards someone doing the same action if they were a woman.
+
+The double standard is him acting like he did and getting a pass.
+
+11: (0.749)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+> If she got all angry she would have been dismissed as crazy, hormonal, etc.
+
+South Park's first episode this season touches on this exact thing.
+
+12: (0.731)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> Dominant males would describe Kavanaugh's erratic behavior as a sign of strenght and confidence. 
+
+No we wouldn't. It is a sign of fear and insecurity. A 'dominant' male is calm and confident. He was not. He was like an scared little yappy dog who is acting tough. 
+
+But yes a woman would be judged much more harshly for behaving like he did.
+
+13: (0.729)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+The year is 1950. That's the year the conservatives perpetually live in. Blacks, women, homosexuals, progressives, all oppressed. 
+
+14: (0.729)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+>Dominant males would describe Kavanaugh's erratic behavior as a sign of strenght and confidence. 
+
+Lol are you sure about that?
+
+15: (0.719)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Kavanaugh would have been called "cold" and "definitely guilty" if he hadn't shown any emotion.
+
+16: (0.719)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+Sure but Kavanaugh WAS called hysterical, so what’s the double standard?
+
+17: (0.715)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+> Not what her claim entails. You reveal your eagerness to be ignorant despite days and days to acquaint yourself with the basic details. But let us ignore that for a second.
+
+Better writers typically use fewer words. 
+
+> First of all, a male footballer cannot be held down by a teenage girl.
+
+ You dont need to physically overpower someone to commit assault.
+
+> A man can be treated differently than a woman, and a woman or man differently than a child. This is not hypocrisy. It is called nuance.
+
+Men do not enjoy being sexually assaulted by women.
+
+18: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+He behaved like a petulant child with crocodile tears. 
+
+19: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9k5arb
+
+The blubbering and sniffing is a sign of confidence and strength?
+
+20: (0.681)
+Subreddit id = t5_2cneq
+Submission id = t3_9jsf62
+
+That was my take away too, the sighs, the overwrought pauses, the crying with no tears...
